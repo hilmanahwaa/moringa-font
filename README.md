@@ -8,6 +8,10 @@ Format utama adalah *Splinefont Database*, pengerjaan dengan aplikasi FontForge.
 
 Masih dalam tahap beta / pengembangan
 
+## Download dan Gunakan Font Ini! <small>dalam desain anda</small>
+
+Klik *Build* (berlambang roket) di sebelah kiri, lalu pilih *Artifacts*. Unduh artefak bercentang hijau paling atas dengan tombol unduh (berlambang panah bawah) yang disediakan.
+
 ## Mengapa Dinamai "Moringa"?
 
 Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri khas dari MAN Lumajang dan produk unggulan Kopsis Al Barokah MAN Lumajang. Kelor juga dipergunakan sebagai motif seragam almamater MAN Lumajang.
