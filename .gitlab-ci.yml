@@ -5,7 +5,7 @@ build:
     - apt update && apt install -y fontforge-nox
     - mkdir ready_to_use
   script:
-    - for f in *.sfd; do; fontforge -lang=ff -c 'Open($1); Generate($2)' $f $(basename $f .sfd); done
+    - for f in *.sfd; do fontforge -lang=ff -c 'Open($1); Generate($2)' $f $(basename $f .sfd); done
   artifacts:
     paths:
       - ready_to_use/
