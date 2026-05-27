@@ -16,7 +16,6 @@ Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri 
 
 * Belum ada *kerning* untuk menyesuaikan jarak huruf ke huruf
 * Hanya dapat digunakan untuk bahasa Inggris, Indonesia dan Melayu (dalam kata lain, hanya memiliki 95 karakter dasar ASCII)
-* Hanya tersedia varian biasa, tebal, dan miring/serong untuk saat ini 
 * Bentuk beberapa karakter mungkin kurang pas karena penggunaan *hinting* otomatis
 
 Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, saran, dan kritik tentang *font* ini di *Plan* \> *Issue boards*.
