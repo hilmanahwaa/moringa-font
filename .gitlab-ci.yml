@@ -5,7 +5,14 @@ build:
     - apt update && apt install -y fontforge-nox
     - mkdir ready_to_use
   script:
-    - for f in *.sfd; do fontforge -lang=ff -c 'Open($1); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf; done
+    - |
+      for f in src/normal/*.sfd; do
+          fontforge -lang=ff -c 'Open($1); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
+      done
+    - |
+      for f in src/italic/*.sfd; do
+          fontforge -lang=ff -c 'Open($1); SelectAll(); Skew(-8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
+      done
   artifacts:
     paths:
       - ready_to_use/
