@@ -1,0 +1,15 @@
+
+build:
+  stage: build
+  before_script:
+    - apt update && apt install -y fontforge-nox
+    - mkdir ready_to_use
+  script:
+    - for f in *.sfd
+      do
+          fontforge -lang=ff -c 'Open($1); SelectAll(); RoundToInt(); RemoveOverlap(); CorrectDirection(); AutoHint(); AutoInstr(); Generate($2)' $f ready_to_use/$(basename "$f" .sfd).ttf
+      done
+  artifacts:
+    paths:
+      - ready_to_use/
+
