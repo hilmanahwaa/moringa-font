@@ -11,7 +11,7 @@ build:
       done
     - |
       for f in src/italic/*.sfd; do
-          fontforge -lang=ff -c 'Open($1); SelectAll(); Skew(-8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
+          fontforge -lang=ff -c 'Open($1); SelectAll(); Skew(8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
       done
   artifacts:
     paths:
