@@ -5,37 +5,7 @@ build:
     - apt update && apt install -y fontforge-nox
     - mkdir ready_to_use
   script:
-    - |
-      for f in *.sfd; do
-        base=$(basename "$f" .sfd)
-
-        fontforge -lang=ff -c "
-          Open(\"$f\");
-
-          # Select entire font
-          SelectAll();
-
-          # Round all points to integer coordinates
-          RoundToInt();
-
-          # Remove overlaps (recommended before TTF generation)
-          RemoveOverlap();
-
-          # Correct contour direction
-          CorrectDirection();
-
-          # Add PS-style hints
-          AutoHint();
-
-          # Add TrueType instructions
-          AutoInstr();
-
-          # Generate fonts
-          Generate(\"ready_to_use/${base}.ttf\");
-          Generate(\"ready_to_use/${base}.otf\");
-
-          Quit(0);
-        "
+    - for f in *.sfd; do; fontforge -lang=ff -c 'Open($1); Generate($2)' $f $(basename $f .sfd); done
   artifacts:
     paths:
       - ready_to_use/
