@@ -1,16 +1,16 @@
 
 .PHONY: % all clean
 
-truetype   : Moringa-Regular.ttf Moringa-Italic.ttf Moringa-Bold.ttf Moringa-BoldItalic.ttf
+truetype   : Moringa-Regular.ttf  Moringa-Italic.ttf  Moringa-Bold.ttf  Moringa-BoldItalic.ttf
 
-opentype   : Moringa-Regular.otf Moringa-Italic.otf Moringa-Bold.otf Moringa-BoldItalic.otf
+webfonts   : Moringa-Regular.woff Moringa-Italic.woff Moringa-Bold.woff Moringa-BoldItalic.woff
 
-unifontobj : Moringa-Regular.ufo Moringa-Italic.ufo Moringa-Bold.ufo Moringa-BoldItalic.ufo
+unifontobj : Moringa-Regular.ufo  Moringa-Italic.ufo  Moringa-Bold.ufo  Moringa-BoldItalic.ufo
 
-%.ttf %.otf %.ufo: src/normal/%.sfd dist/
+%.ttf %.woff %.ufo: src/normal/%.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); Generate($$2)' $< dist/$@
 
-%Italic.ttf %.otf %Italic.ufo: src/italic/%Italic.sfd dist/
+%Italic.ttf %Italic.woff %Italic.ufo: src/italic/%Italic.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); Skew(8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
 all: truetype opentype unifontobj

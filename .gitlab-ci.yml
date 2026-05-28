@@ -6,6 +6,7 @@ build:
     - mkdir dist
   script:
     - make truetype
+    - make webfonts
     - make unifontobj
   artifacts:
     paths:

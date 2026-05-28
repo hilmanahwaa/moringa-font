@@ -22,10 +22,13 @@ jobs:
       - name: Siapkan folder untuk menampung berkas TTF
         run: mkdir dist
 
-      - name: Buat font TTF untuk varian tegak
+      - name: Buat font TTF untuk penggunaan umum
         run: make truetype
 
-      - name: Buat font TTF untuk varian serong
+      - name: Buat font WOFF untuk penggunaan di Web
+        run: make truetype
+
+      - name: Buat font UFO untuk pengerjaan di aplikasi lain
         run: make unifontobj
 
       - name: Unggah hasilnya sebagai artefak
