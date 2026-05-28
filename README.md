@@ -1,4 +1,4 @@
-<div style="font-family: Moringa, sans-serif; font-size: 1.10em">
+<div style="font-family: Moringa, sans-serif">
 
 <center>
 
@@ -20,15 +20,15 @@ Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri 
 
 ## Download dan Gunakan Font Ini! <small>dalam desain anda</small>
 
-[Klik di sini](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/14575480786/artifacts/download?file_type=archive) untuk mengunduh dari Gitlab. Tanggal pembuatan: 28 Mei 2026
+[Klik di sini](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/14582044896/artifacts/download?file_type=archive) untuk mengunduh dari Gitlab. Tanggal pembuatan: 28 Mei 2026
 
 ## Kekurangan *Font* Ini
 
-* *Kerning* untuk menyesuaikan jarak huruf ke huruf (seperti antara A dan V) masih belum sempurna
+* *Kerning* untuk menyesuaikan jarak huruf ke huruf (seperti antara A dan V) mungkin terdapat beberapa kesalahan
 * Bahasa yang dapat digunakan dengan *font* ini terbatas (menargetkan: set karakter Eropa Barat)
 * Bentuk beberapa karakter mungkin kurang pas karena penggunaan *hinting* otomatis
 
-Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, saran, dan kritik tentang *font* ini di *Plan* \> *Issue boards*.
+Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, saran, dan kritik tentang *font* ini di *Plan* \> *Issue boards* atau di *Issues*.
 
 ## Lisensi *Font* Ini
 
