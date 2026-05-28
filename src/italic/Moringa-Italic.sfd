@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1779939715
+ModificationTime: 1779941333
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -717,28 +717,28 @@ EndChar
 
 StartChar: u
 Encoding: 85 117 22
-Width: 538
+Width: 547
 VWidth: 1013
 GlyphClass: 2
 Flags: HW
-HStem: -4 64<178.646 312.296> 467 20G<46 127 391 473>
-VStem: 46 81<117.303 487> 391 82<0 91 145.728 487>
+HStem: -4 64<187.646 321.296> 467 20G<55 136 400 482>
+VStem: 55 81<117.303 487> 400 82<0 91 145.728 487>
 LayerCount: 2
 Fore
 SplineSet
-229 -4 m 0
- 128 -4 46 66 46 202 c 2
- 46 487 l 1
- 127 487 l 1
- 127 202 l 2
- 127 111 180 60 242 60 c 0
- 309 60 391 120 391 242 c 2
- 391 487 l 1
- 473 487 l 1
- 473 0 l 1
- 391 0 l 1
- 391 91 l 1
- 366 40 310 -4 229 -4 c 0
+238 -4 m 0
+ 137 -4 55 66 55 202 c 2
+ 55 487 l 1
+ 136 487 l 1
+ 136 202 l 2
+ 136 111 189 60 251 60 c 0
+ 318 60 400 120 400 242 c 2
+ 400 487 l 1
+ 482 487 l 1
+ 482 0 l 1
+ 400 0 l 1
+ 400 91 l 1
+ 375 40 319 -4 238 -4 c 0
 EndSplineSet
 EndChar
 
@@ -2911,21 +2911,21 @@ EndChar
 
 StartChar: ugrave
 Encoding: 124 249 118
-Width: 538
+Width: 547
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 97 768 N 1 0 0 1 92 5 2
+Refer: 97 768 N 1 0 0 1 101 5 2
 Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uacute
 Encoding: 125 250 119
-Width: 538
+Width: 547
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 96 769 N 1 0 0 1 212 5 2
+Refer: 96 769 N 1 0 0 1 221 5 2
 Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -3051,11 +3051,11 @@ EndChar
 
 StartChar: ucircumflex
 Encoding: 126 251 131
-Width: 538
+Width: 547
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 121 770 N 1 0 0 1 158 5 2
+Refer: 121 770 N 1 0 0 1 167 5 2
 Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
