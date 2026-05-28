@@ -1,3 +1,5 @@
+<div style="font-family: Moringa, sans-serif">
+
 # Proyek Font Moringa
 
 ![Sampel font Moringa](Font_Sample.png)
@@ -10,7 +12,7 @@ Masih dalam tahap beta / pengembangan
 
 ## Download dan Gunakan Font Ini! <small>dalam desain anda</small>
 
-Klik *Build* (berlambang roket) di sebelah kiri, lalu pilih *Artifacts*. Unduh artefak bercentang hijau paling atas dengan tombol unduh (berlambang panah bawah) yang disediakan.
+[Klik di sini](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/14575203050/artifacts/download?file_type=archive) untuk mengunduh dari Gitlab. Tanggal pembuatan: 28 Mei 2026
 
 ## Mengapa Dinamai "Moringa"?
 
@@ -27,3 +29,5 @@ Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, sa
 ## Lisensi *Font* Ini
 
 *Font* ini tersedia di bawah ketentuan lisensi *SIL Open Font Licence*. Baca LICENSE untuk selengkapnya.
+
+</div>
