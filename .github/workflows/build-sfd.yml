@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Instal aplikasi FontForge
-        run: apt update && apt install -y fontforge-nox
+        run: sudo apt update && sudo apt install -y fontforge-nox
 
       - name: Siapkan folder untuk menampung berkas TTF
         run: mkdir ready_to_use
