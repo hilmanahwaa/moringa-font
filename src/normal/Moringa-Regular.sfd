@@ -9,8 +9,8 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
-Ascent: 754
-Descent: 270
+Ascent: 764
+Descent: 260
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1779969128
+ModificationTime: 1779974737
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5

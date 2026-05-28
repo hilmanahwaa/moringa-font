@@ -9,8 +9,8 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
-Ascent: 754
-Descent: 270
+Ascent: 764
+Descent: 260
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1779969138
+ModificationTime: 1779975298
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -1026,8 +1026,8 @@ SplineSet
  557 543 489 669 355 669 c 0
 355 741 m 0
  545 741 646 595 646 366 c 0
- 646 220 605 106 524 46 c 1
- 612 23 689 -19 689 -19 c 1
+ 646 220 597 99 516 39 c 5
+ 604 24 689 -19 689 -19 c 1
  649 -90 l 1
  552 -28 446 -4 354 -4 c 0
  165 -4 66 139 66 367 c 0
