@@ -1,0 +1,40 @@
+
+name: Proses pembuatan font TTF
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Instal aplikasi FontForge
+        run: apt update && apt install -y fontforge-nox
+
+      - name: Siapkan folder untuk menampung berkas TTF
+        run: mkdir ready_to_use
+
+      - name: Buat font TTF untuk varian tegak
+        run: |
+          for f in src/normal/*.sfd; do
+              fontforge -lang=ff -c 'Open($1); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
+          done
+
+      - name: Buat font TTF untuk varian serong
+        run: |
+          for f in src/italic/*.sfd; do
+              fontforge -lang=ff -c 'Open($1); SelectAll(); Skew(8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($2)' $f ready_to_use/$(basename $f .sfd).ttf
+          done
+
+      - name: Unggah hasilnya sebagai artefak
+        uses: actions/upload-artifact@v7.0.1
+        with:
+          path: ready_to_use/
