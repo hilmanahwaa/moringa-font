@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780071615
+ModificationTime: 1780072172
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -102,7 +102,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 65430 18 7
+WinInfo: 0 18 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -402,11 +402,11 @@ SplineSet
  243 469 288 445 345 434 c 0
  418 421 656 393 656 201 c 0
  656 65 541 -4 367 -4 c 0
- 214 -4 115 49 47 153 c 1
+ 234 -4 115 49 47 153 c 1
  157 227 l 1
- 212 148 275 114 362 114 c 0
+ 212 148 285 114 362 114 c 4
  449 114 497 138 497 196 c 0
- 497 269 431 291 342 306 c 4
+ 497 269 431 291 342 306 c 0
  298 313 89 352 89 534 c 0
  89 658 178 741 354 741 c 0
 EndSplineSet
@@ -982,12 +982,12 @@ Fore
 SplineSet
 85 736 m 1
  458 736 l 2
- 637 736 716 602 716 496 c 0
- 716 407 659 265 485 255 c 5
- 588 154 738 0 738 0 c 1
+ 637 736 728 605 728 499 c 4
+ 728 370 638 266 477 257 c 5
+ 566 202 738 0 738 0 c 1
  551 0 l 1
- 551 0 442 125 322 246 c 5
- 247 246 l 1
+ 551 0 359 246 282 246 c 3
+ 261 246 247 246 247 246 c 1
  247 0 l 1
  85 0 l 1
  85 736 l 1

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780071574
+ModificationTime: 1780072301
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -102,7 +102,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 65430 18 7
+WinInfo: 0 18 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -237,7 +237,7 @@ SplineSet
  196 701 170 674 137 674 c 0
  104 674 78 701 78 734 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: k
@@ -403,9 +403,9 @@ Encoding: 83 83 10
 Width: 676
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: -4 73<240.124 461.167> 669 73<242.463 435.393>
-VStem: 89 92<481.381 613.609> 524 94<124.875 260.559>
+Flags: W
+HStem: -4 73<240 461> 669 73<242 435>
+VStem: 89 92<481 614> 524 94<125 261>
 LayerCount: 2
 Fore
 SplineSet
@@ -414,18 +414,17 @@ SplineSet
  514 565 l 1
  473 641 405 669 336 669 c 0
  238 669 181 612 181 544 c 0
- 181 459 274 439 300 432 c 0
- 401 407 618 369 618 200 c 0
- 618 77 502 -4 346 -4 c 0
+ 181 459 274 429 300 422 c 4
+ 401 397 618 369 618 200 c 0
+ 618 57 502 -4 346 -4 c 0
  221 -4 108 49 60 153 c 1
  140 189 l 1
  182 110 259 68 354 68 c 0
- 448 68 524 108 524 192 c 0
- 524 296 402 322 355 334 c 0
- 274 354 89 384 89 542 c 0
+ 448 68 524 98 524 192 c 0
+ 524 298 402 312 355 324 c 4
+ 274 344 89 384 89 542 c 0
  89 659 188 741 344 741 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: l
@@ -1983,7 +1982,7 @@ SplineSet
  124 416 82 464 82 536 c 0
  82 639 167 724 292 724 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 Substitution2: "TabularFigures-1" eight.tnum
 EndChar
 
@@ -2187,7 +2186,7 @@ SplineSet
  358 82 408 70 442 70 c 0
  510 70 576 119 576 434 c 1
 EndSplineSet
-Validated: 8388641
+Validated: 33
 EndChar
 
 StartChar: grave
@@ -2572,7 +2571,7 @@ SplineSet
  24 698 l 1
  24 762 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: bracketleft
@@ -2596,7 +2595,7 @@ SplineSet
  73 762 l 1
  290 762 l 1
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: ampersand
@@ -3436,7 +3435,7 @@ SplineSet
  122 416 80 464 80 536 c 0
  80 639 165 724 290 724 c 0
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: nine.tnum
