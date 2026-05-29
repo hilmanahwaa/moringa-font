@@ -16,7 +16,7 @@ unifontobj : Moringa-Regular.ufo  Moringa-Italic.ufo  Moringa-Bold.ufo  Moringa-
 all: truetype opentype unifontobj
 
 clean:
-	rm -rvf dist/*.ttf dist/*.ufo
+	rm -rvf dist/*.ttf dist/*.ufo dist/*.woff
 
 dist/:
 	mkdir dist
