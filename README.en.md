@@ -26,7 +26,7 @@ Moringa is one of the distinguishing features of MAN Lumajang and the flagship p
 
 [Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/14605214239/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
 
-Generated automatically by Gitlab CI, on 28 May 2026
+Generated automatically by Gitlab CI, on 29 May 2026
 
 ## Limitations
 
