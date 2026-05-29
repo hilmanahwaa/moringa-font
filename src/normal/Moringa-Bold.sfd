@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780047639
+ModificationTime: 1780065307
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -50,59 +50,59 @@ MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 23 23 "LatinKerning subtable"
  87 zero three eight nine B C D G O Q U Ograve Oacute Ocircumflex Ugrave Uacute Ucircumflex
- 69 one H I M N d q u Igrave Iacute Icircumflex ugrave uacute ucircumflex
+ 89 one H I M N d q u Igrave Iacute Icircumflex Idieresis ugrave uacute ucircumflex udieresis
  5 F P T
- 89 a b c e o p agrave aacute acircumflex egrave eacute ecircumflex ograve oacute ocircumflex
+ 139 a b c e o p agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
  3 f t
  10 numbersign
  1 r
  31 parenleft bracketleft braceleft
- 28 slash seven V W v w y yacute
+ 38 slash seven V W v w y yacute ydieresis
  5 space
  10 dollar S s
  1 l
  17 plus hyphen equal
  20 quotedbl quotesingle
  1 L
- 39 g h i j m n z igrave iacute icircumflex
+ 49 g h i j m n z igrave iacute icircumflex idieresis
  3 k x
- 29 E Z Egrave Eacute Ecircumflex
+ 39 E Z Egrave Eacute Ecircumflex Edieresis
  12 K X Y Yacute
  1 R
  1 J
- 37 A backslash Agrave Aacute Acircumflex
- 44 numbersign slash A Agrave Aacute Acircumflex
+ 60 A backslash Agrave Aacute Acircumflex Atilde Adieresis Aring
+ 67 numbersign slash A Agrave Aacute Acircumflex Atilde Adieresis Aring
  1 J
- 64 ampersand zero three six eight C G O Q Ograve Oacute Ocircumflex
+ 81 ampersand zero three six eight C G O Q Ograve Oacute Ocircumflex Otilde Odieresis
  10 S dollar s
- 63 c d e g o q egrave eacute ecircumflex ograve oacute ocircumflex
+ 90 c d e g o q egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
  1 j
  34 parenright bracketright braceright
  26 V W backslash v w y yacute
  5 space
- 27 a agrave aacute acircumflex
+ 50 a agrave aacute acircumflex atilde adieresis aring
  17 plus hyphen equal
  20 quotedbl quotesingle
  1 T
  17 b h i k l m n p r
  3 f t
- 27 u ugrave uacute ucircumflex
+ 37 u ugrave uacute ucircumflex udieresis
  1 x
  0 
- 77 B D E F H I K L M N P R U Egrave Eacute Ecircumflex Ugrave Uacute Ucircumflex
+ 87 B D E F H I K L M N P R U Egrave Eacute Ecircumflex Edieresis Ugrave Uacute Ucircumflex
  10 X Y Yacute
  0 
  1 Z
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -44 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -30 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: Custom
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 18 18 7
+WinInfo: 198 18 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -118,10 +118,10 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 368640 184320 122880 503808 1048576 122880 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "top_accent"""  "top_anchor""" 
-BeginChars: 144 142
+BeginChars: 65546 164
 
 StartChar: b
-Encoding: 66 98 0
+Encoding: 98 98 0
 Width: 654
 VWidth: 1114
 GlyphClass: 2
@@ -151,7 +151,7 @@ EndSplineSet
 EndChar
 
 StartChar: a
-Encoding: 65 97 1
+Encoding: 97 97 1
 Width: 604
 VWidth: 1114
 GlyphClass: 2
@@ -183,7 +183,7 @@ EndSplineSet
 EndChar
 
 StartChar: j
-Encoding: 74 106 2
+Encoding: 106 106 2
 Width: 321
 VWidth: 1114
 GlyphClass: 2
@@ -209,7 +209,7 @@ EndSplineSet
 EndChar
 
 StartChar: i
-Encoding: 73 105 3
+Encoding: 105 105 3
 Width: 316
 VWidth: 1114
 GlyphClass: 2
@@ -233,7 +233,7 @@ EndSplineSet
 EndChar
 
 StartChar: k
-Encoding: 75 107 4
+Encoding: 107 107 4
 Width: 605
 VWidth: 1114
 GlyphClass: 2
@@ -260,7 +260,7 @@ EndSplineSet
 EndChar
 
 StartChar: s
-Encoding: 83 115 5
+Encoding: 115 115 5
 Width: 582
 VWidth: 1114
 GlyphClass: 2
@@ -289,7 +289,7 @@ EndSplineSet
 EndChar
 
 StartChar: B
-Encoding: 34 66 6
+Encoding: 66 66 6
 Width: 739
 VWidth: 1114
 GlyphClass: 2
@@ -323,7 +323,7 @@ EndSplineSet
 EndChar
 
 StartChar: o
-Encoding: 79 111 7
+Encoding: 111 111 7
 Width: 634
 VWidth: 1114
 GlyphClass: 2
@@ -348,7 +348,7 @@ EndSplineSet
 EndChar
 
 StartChar: t
-Encoding: 84 116 8
+Encoding: 116 116 8
 Width: 430
 VWidth: 1114
 GlyphClass: 2
@@ -380,7 +380,7 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 0 32 9
+Encoding: 32 32 9
 Width: 292
 VWidth: 1114
 GlyphClass: 2
@@ -389,7 +389,7 @@ LayerCount: 2
 EndChar
 
 StartChar: S
-Encoding: 51 83 10
+Encoding: 83 83 10
 Width: 723
 VWidth: 1114
 GlyphClass: 2
@@ -418,7 +418,7 @@ EndSplineSet
 EndChar
 
 StartChar: l
-Encoding: 76 108 11
+Encoding: 108 108 11
 Width: 345
 VWidth: 1114
 GlyphClass: 2
@@ -440,7 +440,7 @@ EndSplineSet
 EndChar
 
 StartChar: r
-Encoding: 82 114 12
+Encoding: 114 114 12
 Width: 505
 VWidth: 1114
 GlyphClass: 2
@@ -465,7 +465,7 @@ EndSplineSet
 EndChar
 
 StartChar: y
-Encoding: 89 121 13
+Encoding: 121 121 13
 Width: 608
 VWidth: 1114
 GlyphClass: 2
@@ -488,7 +488,7 @@ EndSplineSet
 EndChar
 
 StartChar: D
-Encoding: 36 68 14
+Encoding: 68 68 14
 Width: 742
 VWidth: 1114
 GlyphClass: 2
@@ -514,7 +514,7 @@ EndSplineSet
 EndChar
 
 StartChar: n
-Encoding: 78 110 15
+Encoding: 110 110 15
 Width: 665
 VWidth: 1114
 GlyphClass: 2
@@ -541,7 +541,7 @@ EndSplineSet
 EndChar
 
 StartChar: g
-Encoding: 71 103 16
+Encoding: 103 103 16
 Width: 666
 VWidth: 1114
 GlyphClass: 2
@@ -574,7 +574,7 @@ EndSplineSet
 EndChar
 
 StartChar: e
-Encoding: 69 101 17
+Encoding: 101 101 17
 Width: 628
 VWidth: 1114
 GlyphClass: 2
@@ -603,7 +603,7 @@ EndSplineSet
 EndChar
 
 StartChar: f
-Encoding: 70 102 18
+Encoding: 102 102 18
 Width: 431
 VWidth: 1114
 GlyphClass: 2
@@ -631,7 +631,7 @@ EndSplineSet
 EndChar
 
 StartChar: I
-Encoding: 41 73 19
+Encoding: 73 73 19
 Width: 292
 VWidth: 1114
 GlyphClass: 2
@@ -650,7 +650,7 @@ EndSplineSet
 EndChar
 
 StartChar: h
-Encoding: 72 104 20
+Encoding: 104 104 20
 Width: 672
 VWidth: 1114
 GlyphClass: 2
@@ -677,7 +677,7 @@ EndSplineSet
 EndChar
 
 StartChar: w
-Encoding: 87 119 21
+Encoding: 119 119 21
 Width: 820
 VWidth: 1114
 GlyphClass: 2
@@ -704,7 +704,7 @@ EndSplineSet
 EndChar
 
 StartChar: u
-Encoding: 85 117 22
+Encoding: 117 117 22
 Width: 671
 VWidth: 1114
 GlyphClass: 2
@@ -731,7 +731,7 @@ EndSplineSet
 EndChar
 
 StartChar: d
-Encoding: 68 100 23
+Encoding: 100 100 23
 Width: 654
 VWidth: 1114
 GlyphClass: 2
@@ -761,7 +761,7 @@ EndSplineSet
 EndChar
 
 StartChar: v
-Encoding: 86 118 24
+Encoding: 118 118 24
 Width: 583
 VWidth: 1114
 GlyphClass: 2
@@ -782,7 +782,7 @@ EndSplineSet
 EndChar
 
 StartChar: m
-Encoding: 77 109 25
+Encoding: 109 109 25
 Width: 1038
 VWidth: 1114
 GlyphClass: 2
@@ -817,7 +817,7 @@ EndSplineSet
 EndChar
 
 StartChar: x
-Encoding: 88 120 26
+Encoding: 120 120 26
 Width: 630
 VWidth: 1114
 GlyphClass: 2
@@ -843,7 +843,7 @@ EndSplineSet
 EndChar
 
 StartChar: p
-Encoding: 80 112 27
+Encoding: 112 112 27
 Width: 654
 VWidth: 1114
 GlyphClass: 2
@@ -872,7 +872,7 @@ EndSplineSet
 EndChar
 
 StartChar: T
-Encoding: 52 84 28
+Encoding: 84 84 28
 Width: 619
 VWidth: 1114
 GlyphClass: 2
@@ -895,7 +895,7 @@ EndSplineSet
 EndChar
 
 StartChar: E
-Encoding: 37 69 29
+Encoding: 69 69 29
 Width: 667
 VWidth: 1114
 GlyphClass: 2
@@ -923,7 +923,7 @@ EndSplineSet
 EndChar
 
 StartChar: c
-Encoding: 67 99 30
+Encoding: 99 99 30
 Width: 617
 VWidth: 1114
 GlyphClass: 2
@@ -948,7 +948,7 @@ EndSplineSet
 EndChar
 
 StartChar: A
-Encoding: 33 65 31
+Encoding: 65 65 31
 Width: 730
 VWidth: 1114
 GlyphClass: 2
@@ -975,7 +975,7 @@ EndSplineSet
 EndChar
 
 StartChar: R
-Encoding: 50 82 32
+Encoding: 82 82 32
 Width: 753
 VWidth: 1114
 GlyphClass: 2
@@ -1006,7 +1006,7 @@ EndSplineSet
 EndChar
 
 StartChar: Q
-Encoding: 49 81 33
+Encoding: 81 81 33
 Width: 745
 VWidth: 1114
 GlyphClass: 2
@@ -1034,7 +1034,7 @@ EndSplineSet
 EndChar
 
 StartChar: z
-Encoding: 90 122 34
+Encoding: 122 122 34
 Width: 610
 VWidth: 1114
 GlyphClass: 2
@@ -1058,7 +1058,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenleft
-Encoding: 8 40 35
+Encoding: 40 40 35
 Width: 385
 VWidth: 1114
 GlyphClass: 2
@@ -1079,7 +1079,7 @@ EndSplineSet
 EndChar
 
 StartChar: N
-Encoding: 46 78 36
+Encoding: 78 78 36
 Width: 761
 VWidth: 1114
 GlyphClass: 2
@@ -1104,7 +1104,7 @@ EndSplineSet
 EndChar
 
 StartChar: F
-Encoding: 38 70 37
+Encoding: 70 70 37
 Width: 655
 VWidth: 1114
 GlyphClass: 2
@@ -1129,7 +1129,7 @@ EndSplineSet
 EndChar
 
 StartChar: M
-Encoding: 45 77 38
+Encoding: 77 77 38
 Width: 898
 VWidth: 1114
 GlyphClass: 2
@@ -1157,7 +1157,7 @@ EndSplineSet
 EndChar
 
 StartChar: K
-Encoding: 43 75 39
+Encoding: 75 75 39
 Width: 693
 VWidth: 1114
 GlyphClass: 2
@@ -1184,7 +1184,7 @@ EndSplineSet
 EndChar
 
 StartChar: P
-Encoding: 48 80 40
+Encoding: 80 80 40
 Width: 742
 VWidth: 1114
 GlyphClass: 2
@@ -1212,7 +1212,7 @@ EndSplineSet
 EndChar
 
 StartChar: q
-Encoding: 81 113 41
+Encoding: 113 113 41
 Width: 654
 VWidth: 1114
 GlyphClass: 2
@@ -1241,7 +1241,7 @@ EndSplineSet
 EndChar
 
 StartChar: G
-Encoding: 39 71 42
+Encoding: 71 71 42
 Width: 770
 VWidth: 1114
 GlyphClass: 2
@@ -1270,7 +1270,7 @@ EndSplineSet
 EndChar
 
 StartChar: J
-Encoding: 42 74 43
+Encoding: 74 74 43
 Width: 639
 VWidth: 1114
 GlyphClass: 2
@@ -1293,7 +1293,7 @@ EndSplineSet
 EndChar
 
 StartChar: U
-Encoding: 53 85 44
+Encoding: 85 85 44
 Width: 739
 VWidth: 1114
 GlyphClass: 2
@@ -1318,7 +1318,7 @@ EndSplineSet
 EndChar
 
 StartChar: V
-Encoding: 54 86 45
+Encoding: 86 86 45
 Width: 731
 VWidth: 1114
 GlyphClass: 2
@@ -1339,7 +1339,7 @@ EndSplineSet
 EndChar
 
 StartChar: C
-Encoding: 35 67 46
+Encoding: 67 67 46
 Width: 714
 VWidth: 1114
 GlyphClass: 2
@@ -1364,7 +1364,7 @@ EndSplineSet
 EndChar
 
 StartChar: H
-Encoding: 40 72 47
+Encoding: 72 72 47
 Width: 716
 VWidth: 1114
 GlyphClass: 2
@@ -1391,7 +1391,7 @@ EndSplineSet
 EndChar
 
 StartChar: L
-Encoding: 44 76 48
+Encoding: 76 76 48
 Width: 599
 VWidth: 1114
 GlyphClass: 2
@@ -1412,7 +1412,7 @@ EndSplineSet
 EndChar
 
 StartChar: O
-Encoding: 47 79 49
+Encoding: 79 79 49
 Width: 745
 VWidth: 1114
 GlyphClass: 2
@@ -1437,7 +1437,7 @@ EndSplineSet
 EndChar
 
 StartChar: W
-Encoding: 55 87 50
+Encoding: 87 87 50
 Width: 1083
 VWidth: 1114
 GlyphClass: 2
@@ -1464,7 +1464,7 @@ EndSplineSet
 EndChar
 
 StartChar: X
-Encoding: 56 88 51
+Encoding: 88 88 51
 Width: 706
 VWidth: 1114
 GlyphClass: 2
@@ -1490,7 +1490,7 @@ EndSplineSet
 EndChar
 
 StartChar: Y
-Encoding: 57 89 52
+Encoding: 89 89 52
 Width: 664
 VWidth: 1114
 GlyphClass: 2
@@ -1514,7 +1514,7 @@ EndSplineSet
 EndChar
 
 StartChar: Z
-Encoding: 58 90 53
+Encoding: 90 90 53
 Width: 736
 VWidth: 1114
 GlyphClass: 2
@@ -1538,7 +1538,7 @@ EndSplineSet
 EndChar
 
 StartChar: period
-Encoding: 14 46 54
+Encoding: 46 46 54
 Width: 269
 VWidth: 1007
 GlyphClass: 2
@@ -1557,7 +1557,7 @@ EndSplineSet
 EndChar
 
 StartChar: comma
-Encoding: 12 44 55
+Encoding: 44 44 55
 Width: 280
 VWidth: 1114
 GlyphClass: 2
@@ -1577,7 +1577,7 @@ EndSplineSet
 EndChar
 
 StartChar: three
-Encoding: 19 51 56
+Encoding: 51 51 56
 Width: 609
 VWidth: 1114
 GlyphClass: 2
@@ -1608,7 +1608,7 @@ Substitution2: "TabularFigures-1" three.tnum
 EndChar
 
 StartChar: nine
-Encoding: 25 57 57
+Encoding: 57 57 57
 Width: 604
 VWidth: 1114
 GlyphClass: 2
@@ -1636,7 +1636,7 @@ Substitution2: "TabularFigures-1" nine.tnum
 EndChar
 
 StartChar: four
-Encoding: 20 52 58
+Encoding: 52 52 58
 Width: 676
 VWidth: 1114
 GlyphClass: 2
@@ -1667,7 +1667,7 @@ Substitution2: "TabularFigures-1" four.tnum
 EndChar
 
 StartChar: five
-Encoding: 21 53 59
+Encoding: 53 53 59
 Width: 646
 VWidth: 1114
 GlyphClass: 2
@@ -1697,7 +1697,7 @@ Substitution2: "TabularFigures-1" five.tnum
 EndChar
 
 StartChar: exclam
-Encoding: 1 33 60
+Encoding: 33 33 60
 Width: 286
 VWidth: 1114
 GlyphClass: 2
@@ -1721,7 +1721,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 17 49 61
+Encoding: 49 49 61
 Width: 453
 VWidth: 1114
 GlyphClass: 2
@@ -1745,7 +1745,7 @@ Substitution2: "TabularFigures-1" one.tnum
 EndChar
 
 StartChar: seven
-Encoding: 23 55 62
+Encoding: 55 55 62
 Width: 584
 VWidth: 1114
 GlyphClass: 2
@@ -1767,7 +1767,7 @@ Substitution2: "TabularFigures-1" seven.tnum
 EndChar
 
 StartChar: zero
-Encoding: 16 48 63
+Encoding: 48 48 63
 Width: 645
 VWidth: 1114
 GlyphClass: 2
@@ -1792,7 +1792,7 @@ Substitution2: "TabularFigures-1" zero.tnum
 EndChar
 
 StartChar: two
-Encoding: 18 50 64
+Encoding: 50 50 64
 Width: 637
 VWidth: 1114
 GlyphClass: 2
@@ -1819,7 +1819,7 @@ Substitution2: "TabularFigures-1" two.tnum
 EndChar
 
 StartChar: six
-Encoding: 22 54 65
+Encoding: 54 54 65
 Width: 604
 VWidth: 1114
 GlyphClass: 2
@@ -1847,7 +1847,7 @@ Substitution2: "TabularFigures-1" six.tnum
 EndChar
 
 StartChar: colon
-Encoding: 26 58 66
+Encoding: 58 58 66
 Width: 279
 VWidth: 1114
 GlyphClass: 2
@@ -1871,7 +1871,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight
-Encoding: 24 56 67
+Encoding: 56 56 67
 Width: 642
 VWidth: 1114
 GlyphClass: 2
@@ -1905,7 +1905,7 @@ Substitution2: "TabularFigures-1" eight.tnum
 EndChar
 
 StartChar: semicolon
-Encoding: 27 59 68
+Encoding: 59 59 68
 Width: 280
 VWidth: 1114
 GlyphClass: 2
@@ -1931,7 +1931,7 @@ EndSplineSet
 EndChar
 
 StartChar: question
-Encoding: 31 63 69
+Encoding: 63 63 69
 Width: 593
 VWidth: 1114
 GlyphClass: 2
@@ -1959,7 +1959,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotesingle
-Encoding: 7 39 70
+Encoding: 39 39 70
 Width: 210
 VWidth: 1114
 GlyphClass: 2
@@ -1978,7 +1978,7 @@ EndSplineSet
 EndChar
 
 StartChar: quotedbl
-Encoding: 2 34 71
+Encoding: 34 34 71
 Width: 363
 VWidth: 1114
 GlyphClass: 2
@@ -2002,7 +2002,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus
-Encoding: 11 43 72
+Encoding: 43 43 72
 Width: 601
 VWidth: 1114
 GlyphClass: 2
@@ -2029,7 +2029,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen
-Encoding: 13 45 73
+Encoding: 45 45 73
 Width: 471
 VWidth: 1114
 GlyphClass: 2
@@ -2048,7 +2048,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash
-Encoding: 15 47 74
+Encoding: 47 47 74
 Width: 408
 VWidth: 1114
 GlyphClass: 2
@@ -2066,7 +2066,7 @@ EndSplineSet
 EndChar
 
 StartChar: at
-Encoding: 32 64 75
+Encoding: 64 64 75
 Width: 1007
 VWidth: 1114
 GlyphClass: 2
@@ -2100,7 +2100,7 @@ EndSplineSet
 EndChar
 
 StartChar: grave
-Encoding: 64 96 76
+Encoding: 96 96 76
 Width: 348
 VWidth: 1114
 GlyphClass: 2
@@ -2119,7 +2119,7 @@ EndSplineSet
 EndChar
 
 StartChar: dollar
-Encoding: 4 36 77
+Encoding: 36 36 77
 Width: 723
 VWidth: 1114
 GlyphClass: 2
@@ -2154,7 +2154,7 @@ EndSplineSet
 EndChar
 
 StartChar: backslash
-Encoding: 60 92 78
+Encoding: 92 92 78
 Width: 409
 VWidth: 1114
 GlyphClass: 2
@@ -2172,7 +2172,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal
-Encoding: 29 61 79
+Encoding: 61 61 79
 Width: 647
 VWidth: 1114
 GlyphClass: 2
@@ -2195,7 +2195,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater
-Encoding: 30 62 80
+Encoding: 62 62 80
 Width: 672
 VWidth: 1114
 GlyphClass: 2
@@ -2217,7 +2217,7 @@ EndSplineSet
 EndChar
 
 StartChar: less
-Encoding: 28 60 81
+Encoding: 60 60 81
 Width: 672
 VWidth: 1114
 GlyphClass: 2
@@ -2239,7 +2239,7 @@ EndSplineSet
 EndChar
 
 StartChar: parenright
-Encoding: 9 41 82
+Encoding: 41 41 82
 Width: 385
 VWidth: 1114
 GlyphClass: 2
@@ -2260,7 +2260,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk
-Encoding: 10 42 83
+Encoding: 42 42 83
 Width: 575
 VWidth: 1114
 GlyphClass: 2
@@ -2292,7 +2292,7 @@ EndSplineSet
 EndChar
 
 StartChar: numbersign
-Encoding: 3 35 84
+Encoding: 35 35 84
 Width: 789
 VWidth: 1114
 GlyphClass: 2
@@ -2339,7 +2339,7 @@ EndSplineSet
 EndChar
 
 StartChar: percent
-Encoding: 5 37 85
+Encoding: 37 37 85
 Width: 762
 VWidth: 1114
 GlyphClass: 2
@@ -2378,7 +2378,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar
-Encoding: 92 124 86
+Encoding: 124 124 86
 Width: 221
 VWidth: 1114
 GlyphClass: 2
@@ -2396,7 +2396,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceright
-Encoding: 93 125 87
+Encoding: 125 125 87
 Width: 498
 VWidth: 1114
 GlyphClass: 2
@@ -2422,7 +2422,7 @@ EndSplineSet
 EndChar
 
 StartChar: braceleft
-Encoding: 91 123 88
+Encoding: 123 123 88
 Width: 497
 VWidth: 1114
 GlyphClass: 2
@@ -2448,7 +2448,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketright
-Encoding: 61 93 89
+Encoding: 93 93 89
 Width: 387
 VWidth: 1114
 GlyphClass: 2
@@ -2471,7 +2471,7 @@ EndSplineSet
 EndChar
 
 StartChar: bracketleft
-Encoding: 59 91 90
+Encoding: 91 91 90
 Width: 387
 VWidth: 1114
 GlyphClass: 2
@@ -2494,7 +2494,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand
-Encoding: 6 38 91
+Encoding: 38 38 91
 Width: 736
 VWidth: 1114
 GlyphClass: 2
@@ -2536,7 +2536,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciitilde
-Encoding: 94 126 92
+Encoding: 126 126 92
 Width: 713
 VWidth: 1114
 GlyphClass: 2
@@ -2559,7 +2559,7 @@ EndSplineSet
 EndChar
 
 StartChar: asciicircum
-Encoding: 62 94 93
+Encoding: 94 94 93
 Width: 529
 VWidth: 1114
 GlyphClass: 2
@@ -2580,7 +2580,7 @@ EndSplineSet
 EndChar
 
 StartChar: underscore
-Encoding: 63 95 94
+Encoding: 95 95 94
 Width: 577
 VWidth: 1114
 GlyphClass: 2
@@ -2598,7 +2598,7 @@ EndSplineSet
 EndChar
 
 StartChar: acute
-Encoding: 95 180 95
+Encoding: 180 180 95
 Width: 257
 VWidth: 1013
 GlyphClass: 2
@@ -2615,7 +2615,7 @@ EndSplineSet
 EndChar
 
 StartChar: acutecomb
-Encoding: 130 769 96
+Encoding: 769 769 96
 Width: 240
 VWidth: 1013
 GlyphClass: 2
@@ -2633,7 +2633,7 @@ EndSplineSet
 EndChar
 
 StartChar: gravecomb
-Encoding: 129 768 97
+Encoding: 768 768 97
 Width: 229
 VWidth: 1013
 GlyphClass: 2
@@ -2651,7 +2651,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0302
-Encoding: 131 770 98
+Encoding: 770 770 98
 Width: 368
 VWidth: 1013
 Flags: HW
@@ -2671,7 +2671,7 @@ EndSplineSet
 EndChar
 
 StartChar: Agrave
-Encoding: 96 192 99
+Encoding: 192 192 99
 Width: 730
 VWidth: 1126
 Flags: HW
@@ -2682,7 +2682,7 @@ Refer: 31 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Aacute
-Encoding: 97 193 100
+Encoding: 193 193 100
 Width: 730
 VWidth: 1126
 Flags: HW
@@ -2693,7 +2693,7 @@ Refer: 31 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Acircumflex
-Encoding: 98 194 101
+Encoding: 194 194 101
 Width: 730
 VWidth: 1126
 Flags: HW
@@ -2704,7 +2704,7 @@ Refer: 31 65 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Egrave
-Encoding: 99 200 102
+Encoding: 200 200 102
 Width: 667
 VWidth: 1126
 Flags: HW
@@ -2715,7 +2715,7 @@ Refer: 29 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Eacute
-Encoding: 100 201 103
+Encoding: 201 201 103
 Width: 667
 VWidth: 1126
 Flags: HW
@@ -2726,7 +2726,7 @@ Refer: 29 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ecircumflex
-Encoding: 101 202 104
+Encoding: 202 202 104
 Width: 667
 VWidth: 1126
 Flags: HW
@@ -2737,7 +2737,7 @@ Refer: 29 69 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Igrave
-Encoding: 102 204 105
+Encoding: 204 204 105
 Width: 292
 VWidth: 1126
 Flags: HW
@@ -2748,7 +2748,7 @@ Refer: 19 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Iacute
-Encoding: 103 205 106
+Encoding: 205 205 106
 Width: 292
 VWidth: 1126
 Flags: HW
@@ -2759,7 +2759,7 @@ Refer: 19 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Icircumflex
-Encoding: 104 206 107
+Encoding: 206 206 107
 Width: 292
 VWidth: 1126
 Flags: HW
@@ -2770,7 +2770,7 @@ Refer: 19 73 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ograve
-Encoding: 105 210 108
+Encoding: 210 210 108
 Width: 745
 VWidth: 1126
 Flags: HW
@@ -2781,7 +2781,7 @@ Refer: 49 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Oacute
-Encoding: 106 211 109
+Encoding: 211 211 109
 Width: 745
 VWidth: 1126
 Flags: HW
@@ -2792,7 +2792,7 @@ Refer: 49 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ocircumflex
-Encoding: 107 212 110
+Encoding: 212 212 110
 Width: 745
 VWidth: 1126
 Flags: HW
@@ -2803,7 +2803,7 @@ Refer: 49 79 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ugrave
-Encoding: 108 217 111
+Encoding: 217 217 111
 Width: 739
 VWidth: 1126
 Flags: HW
@@ -2814,7 +2814,7 @@ Refer: 44 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Uacute
-Encoding: 109 218 112
+Encoding: 218 218 112
 Width: 739
 VWidth: 1126
 Flags: HW
@@ -2825,7 +2825,7 @@ Refer: 44 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Ucircumflex
-Encoding: 110 219 113
+Encoding: 219 219 113
 Width: 739
 VWidth: 1126
 Flags: HW
@@ -2836,7 +2836,7 @@ Refer: 44 85 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Yacute
-Encoding: 111 221 114
+Encoding: 221 221 114
 Width: 664
 VWidth: 1126
 Flags: HW
@@ -2847,7 +2847,7 @@ Refer: 52 89 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: agrave
-Encoding: 112 224 115
+Encoding: 224 224 115
 Width: 604
 VWidth: 1126
 Flags: HW
@@ -2858,7 +2858,7 @@ Refer: 1 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: aacute
-Encoding: 113 225 116
+Encoding: 225 225 116
 Width: 604
 VWidth: 1126
 Flags: HW
@@ -2869,7 +2869,7 @@ Refer: 1 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: acircumflex
-Encoding: 114 226 117
+Encoding: 226 226 117
 Width: 604
 VWidth: 1126
 Flags: HW
@@ -2880,7 +2880,7 @@ Refer: 1 97 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: egrave
-Encoding: 115 232 118
+Encoding: 232 232 118
 Width: 628
 VWidth: 1126
 Flags: HW
@@ -2891,7 +2891,7 @@ Refer: 17 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: eacute
-Encoding: 116 233 119
+Encoding: 233 233 119
 Width: 628
 VWidth: 1126
 Flags: HW
@@ -2902,7 +2902,7 @@ Refer: 17 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ecircumflex
-Encoding: 117 234 120
+Encoding: 234 234 120
 Width: 628
 VWidth: 1126
 Flags: HW
@@ -2913,40 +2913,40 @@ Refer: 17 101 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: igrave
-Encoding: 118 236 121
+Encoding: 236 236 121
 Width: 306
 VWidth: 1126
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 97 768 N 1 0 0 1 -26.5 -1 2
+Refer: 97 768 N 1 0 0 1 1 38 2
 Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: iacute
-Encoding: 119 237 122
+Encoding: 237 237 122
 Width: 306
 VWidth: 1126
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 96 769 N 1 0 0 1 85 -1 2
+Refer: 96 769 N 1 0 0 1 72 38 2
 Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: icircumflex
-Encoding: 120 238 123
+Encoding: 238 238 123
 Width: 306
 VWidth: 1126
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 98 770 N 1 0 0 1 -31 -1 2
+Refer: 98 770 N 1 0 0 1 -20 38 2
 Refer: 131 305 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ograve
-Encoding: 121 242 124
+Encoding: 242 242 124
 Width: 634
 VWidth: 1126
 Flags: HW
@@ -2957,7 +2957,7 @@ Refer: 7 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: oacute
-Encoding: 122 243 125
+Encoding: 243 243 125
 Width: 634
 VWidth: 1126
 Flags: HW
@@ -2968,7 +2968,7 @@ Refer: 7 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ocircumflex
-Encoding: 123 244 126
+Encoding: 244 244 126
 Width: 634
 VWidth: 1126
 Flags: HW
@@ -2979,7 +2979,7 @@ Refer: 7 111 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ugrave
-Encoding: 124 249 127
+Encoding: 249 249 127
 Width: 671
 VWidth: 1126
 Flags: HW
@@ -2990,7 +2990,7 @@ Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uacute
-Encoding: 125 250 128
+Encoding: 250 250 128
 Width: 671
 VWidth: 1126
 Flags: HW
@@ -3001,7 +3001,7 @@ Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: ucircumflex
-Encoding: 126 251 129
+Encoding: 251 251 129
 Width: 671
 VWidth: 1126
 Flags: HW
@@ -3012,7 +3012,7 @@ Refer: 22 117 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: yacute
-Encoding: 127 253 130
+Encoding: 253 253 130
 Width: 608
 VWidth: 1126
 Flags: HW
@@ -3023,12 +3023,13 @@ Refer: 13 121 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: dotlessi
-Encoding: 128 305 131
+Encoding: 305 305 131
 Width: 306
 VWidth: 1114
-Flags: W
+Flags: HW
 HStem: 0 21G<73 234> 516 20G<73 234>
 VStem: 73 161<0 536>
+AnchorPoint: "top_accent" 156 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3041,7 +3042,7 @@ EndSplineSet
 EndChar
 
 StartChar: zero.tnum
-Encoding: 134 -1 132
+Encoding: 65536 -1 132
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3064,7 +3065,7 @@ EndSplineSet
 EndChar
 
 StartChar: one.tnum
-Encoding: 135 -1 133
+Encoding: 65537 -1 133
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3091,7 +3092,7 @@ EndSplineSet
 EndChar
 
 StartChar: two.tnum
-Encoding: 136 -1 134
+Encoding: 65538 -1 134
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3116,7 +3117,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.tnum
-Encoding: 137 -1 135
+Encoding: 65539 -1 135
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3145,7 +3146,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.tnum
-Encoding: 138 -1 136
+Encoding: 65540 -1 136
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3174,7 +3175,7 @@ EndSplineSet
 EndChar
 
 StartChar: five.tnum
-Encoding: 139 -1 137
+Encoding: 65541 -1 137
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3202,7 +3203,7 @@ EndSplineSet
 EndChar
 
 StartChar: six.tnum
-Encoding: 140 -1 138
+Encoding: 65542 -1 138
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3228,7 +3229,7 @@ EndSplineSet
 EndChar
 
 StartChar: seven.tnum
-Encoding: 141 -1 139
+Encoding: 65543 -1 139
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3248,7 +3249,7 @@ EndSplineSet
 EndChar
 
 StartChar: eight.tnum
-Encoding: 142 -1 140
+Encoding: 65544 -1 140
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3280,7 +3281,7 @@ EndSplineSet
 EndChar
 
 StartChar: nine.tnum
-Encoding: 143 -1 141
+Encoding: 65545 -1 141
 Width: 633
 VWidth: 1114
 Flags: HW
@@ -3303,6 +3304,262 @@ SplineSet
  411 558 382 609 310 609 c 0
  246 609 216 569 216 494 c 0
 EndSplineSet
+EndChar
+
+StartChar: tildecomb
+Encoding: 771 771 142
+Width: 350
+VWidth: 1114
+Flags: HW
+AnchorPoint: "top_accent" 174 498 mark 0
+LayerCount: 2
+Fore
+SplineSet
+294 719 m 5
+ 350 703 l 1
+ 350 703 323 604 249 604 c 2
+ 248 604 l 2
+ 174 604 148 654 113 654 c 0
+ 66 654 56 608 56 608 c 1
+ 0 628 l 1
+ 0 628 29 727 109 727 c 0
+ 177 727 205 676 244 676 c 4
+ 288 676 294 719 294 719 c 5
+EndSplineSet
+EndChar
+
+StartChar: uni0308
+Encoding: 776 776 143
+Width: 294
+VWidth: 1013
+Flags: HW
+AnchorPoint: "top_accent" 148 498 mark 0
+LayerCount: 2
+Fore
+SplineSet
+190 647 m 0
+ 190 673 211 699 242 699 c 4
+ 273 699 294 673 294 647 c 0
+ 294 621 273 595 242 595 c 4
+ 211 595 190 621 190 647 c 0
+0 647 m 0
+ 0 673 21 699 52 699 c 4
+ 83 699 104 673 104 647 c 0
+ 104 621 83 595 52 595 c 4
+ 21 595 0 621 0 647 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni030A
+Encoding: 778 778 144
+Width: 236
+VWidth: 1013
+Flags: HW
+AnchorPoint: "top_accent" 119 498 mark 0
+LayerCount: 2
+Fore
+SplineSet
+69.9501953125 644 m 0
+ 69.9501953125 611.599609375 85.599609375 585.900390625 118 585.900390625 c 4
+ 150.400390625 585.900390625 166.049804688 611.599609375 166.049804688 644 c 0
+ 166.049804688 676.400390625 150.400390625 702.099609375 118 702.099609375 c 0
+ 85.599609375 702.099609375 69.9501953125 676.400390625 69.9501953125 644 c 0
+0 644 m 0
+ 0 703.400390625 48.599609375 752 118 752 c 0
+ 187.400390625 752 236 703.400390625 236 644 c 0
+ 236 584.599609375 187.400390625 536 118 536 c 0
+ 48.599609375 536 0 584.599609375 0 644 c 0
+EndSplineSet
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 145
+Width: 730
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 194 238 2
+Refer: 31 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 146
+Width: 730
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 230 238 2
+Refer: 31 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 147
+Width: 730
+Flags: H
+LayerCount: 2
+Fore
+Refer: 144 778 N 1 0 0 1 259 238 2
+Refer: 31 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 148
+Width: 667
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 223 238 2
+Refer: 29 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 149
+Width: 292
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 9 202 2
+Refer: 19 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 150
+Width: 761
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 205.5 198 2
+Refer: 36 78 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 151
+Width: 745
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 198 243 2
+Refer: 49 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 152
+Width: 745
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 234 243 2
+Refer: 49 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 153
+Width: 739
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 232.5 202 2
+Refer: 44 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 154
+Width: 604
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 135 43 2
+Refer: 1 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 155
+Width: 604
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 171 43 2
+Refer: 1 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: aring
+Encoding: 229 229 156
+Width: 604
+Flags: H
+LayerCount: 2
+Fore
+Refer: 144 778 N 1 0 0 1 200 43 2
+Refer: 1 97 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 157
+Width: 628
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 179 43 2
+Refer: 17 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 158
+Width: 306
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 18 38 2
+Refer: 131 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 159
+Width: 665
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 161.5 -2 2
+Refer: 15 110 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 160
+Width: 634
+Flags: H
+LayerCount: 2
+Fore
+Refer: 142 771 N 1 0 0 1 143 43 2
+Refer: 7 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 161
+Width: 634
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 179 43 2
+Refer: 7 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 162
+Width: 671
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 198.5 2 2
+Refer: 22 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 163
+Width: 608
+Flags: H
+LayerCount: 2
+Fore
+Refer: 143 776 N 1 0 0 1 167.5 2 2
+Refer: 13 121 N 1 0 0 1 0 0 3
 EndChar
 EndChars
 EndSplineFont
