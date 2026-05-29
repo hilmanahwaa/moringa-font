@@ -6,7 +6,7 @@
 
 </center>
 
-![Sampel font Moringa](Font_Sample.png)
+## What is this?
 
 This is a sans-serif typeface / font that is designed for publication materials by the D'Graph club. With its formal, modern look that is easy to read, this font will give a signature touch to all of your digital materials.
 
@@ -17,6 +17,10 @@ Main format is *Splinefont Database*, work done using the FontForge app.
 ## Why Named "Moringa"?
 
 Moringa is one of the distinguishing features of MAN Lumajang and the flagship product of the Kopsis Al Barokah (school cooperative) of MAN Lumajang. Moringa is also featured in the daily uniforms of MAN Lumajang.
+
+## Specimen
+
+![Font specimen](images/Font_Sample.png)
 
 ## Download and Use This Font! <small>in your designs</small>
 

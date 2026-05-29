@@ -6,7 +6,7 @@
 
 </center>
 
-![Sampel font Moringa](Font_Sample.png)
+## Apakah Ini?
 
 Ini adalah muka huruf (*typeface* / *font*) berjenis *sans-serif* yang didesain untuk materi publikasi oleh club D'Graph. Mengusung tampilan yang formal, modern dan nyaman dibaca, font ini memberikan tampilan yang khas untuk seluruh materi pamflet anda.
 
@@ -17,6 +17,10 @@ Format utama adalah *Splinefont Database*, pengerjaan dengan aplikasi FontForge.
 ## Mengapa Dinamai "Moringa"?
 
 Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri khas dari MAN Lumajang dan produk unggulan Kopsis Al Barokah MAN Lumajang. Kelor juga digunakan dalam motif seragam almamater MAN Lumajang.
+
+## Spesimen
+
+![Sampel font Moringa](images/Font_Sample.png)
 
 ## Download dan Gunakan Font Ini! <small>dalam desain anda</small>
 
