@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780044654
+ModificationTime: 1780045370
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -102,7 +102,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 18 18 7
+WinInfo: 0 18 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1059,22 +1059,22 @@ EndChar
 
 StartChar: parenleft
 Encoding: 8 40 35
-Width: 415
+Width: 385
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
-HStem: -244 68<353 395> 763 69<353 395>
-VStem: 73 123<98 520>
+HStem: -244 63<301 339> 770 63<301 339>
+VStem: 73 87<83 521>
 LayerCount: 2
 Fore
 SplineSet
-395 768 m 1
- 404 698 l 1
- 283 676 196 448 196 283 c 4
- 196 108 291 -158 404 -176 c 1
- 395 -244 l 1
- 211 -244 73 42 73 278 c 4
- 73 514 211 768 395 768 c 1
+200 263 m 0
+ 200 464 254 675 365 717 c 1
+ 339 780 l 1
+ 204 750 73 539 73 263 c 0
+ 73 -13 204 -224 339 -254 c 1
+ 365 -191 l 5
+ 254 -149 200 62 200 263 c 0
 EndSplineSet
 EndChar
 
@@ -2240,22 +2240,22 @@ EndChar
 
 StartChar: parenright
 Encoding: 9 41 82
-Width: 415
+Width: 385
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
-HStem: -244 68<22 64> 763 69<22 64>
-VStem: 220 123<98 520>
+HStem: -244 68<-37.0002 4.9998> 763 69<-37.0002 4.9998>
+VStem: 161 123<98 520>
 LayerCount: 2
 Fore
 SplineSet
-22 768 m 1
- 206 768 343 509 343 273 c 0
- 343 37 206 -244 22 -244 c 1
- 12 -176 l 1
- 125 -158 220 103 220 278 c 0
- 220 443 133 676 12 698 c 1
- 22 768 l 1
+185 263 m 0
+ 185 464 131 675 20 717 c 5
+ 46 780 l 1
+ 181 750 312 539 312 263 c 0
+ 312 -13 181 -224 46 -254 c 1
+ 20 -191 l 1
+ 131 -149 185 62 185 263 c 0
 EndSplineSet
 EndChar
 
