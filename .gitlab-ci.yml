@@ -1,6 +1,11 @@
 
 build:
   stage: build
+  rules:
+    - changes: 
+      - src/**/*
+      - Makefile
+      - .gitlab-ci.yml
   before_script:
     - apt update && apt install -y fontforge-nox make
     - mkdir dist
