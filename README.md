@@ -32,9 +32,9 @@ Dibuat secara otomatis oleh GitLab CI, pada tanggal 28 Mei 2026
 * Bahasa yang dapat digunakan dengan *font* ini terbatas (saat ini hanya bahasa Inggris, Indonesia, dan Melayu)
 * Bentuk beberapa karakter mungkin kurang pas karena penggunaan *hinting* otomatis
 
-Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, saran, dan kritik tentang *font* ini di *Plan* \> *Issue boards* atau di *Issues*.
+Jangan segan-segan untuk membuka isu di repositori ini jika terdapat masukan, saran, dan kritik tentang *font* ini di *Plan* \> *Issue boards* atau di *Issues*. Anda juga dapat berkontribusi langsung dengan membuka *pull request*.
 
-> **Ingat!** Pengembangan *font* ini terjadi secara aktif di [GitLab](https://gitlab.com/kak_hilhilll/moringa-font), jadi sangat disarankan untuk membuka isu di sana.
+> **Ingat!** Pengembangan *font* ini terjadi secara aktif di [GitLab](https://gitlab.com/kak_hilhilll/moringa-font), jadi sangat disarankan untuk membuka isu dan *pull request* di sana, karena pengurus font ini akan lebih sering aktif di GitLab.
 
 ## Lisensi *Font* Ini
 
