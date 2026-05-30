@@ -1,5 +1,7 @@
 <div style="font-family: Moringa, sans-serif">
 
+> Read the English version: [README.en.md](README.en.md)
+
 <center>
 
 # Proyek Font Moringa
