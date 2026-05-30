@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780102644
+ModificationTime: 1780103501
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -1635,24 +1635,21 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 55
-Width: 256
+Width: 216
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 111<73 120.812>
 VStem: 73 111<0 111>
 LayerCount: 2
 Fore
 SplineSet
-73 111 m 1
- 184 111 l 1
- 184 0 l 1
- 130 -131 l 1
- 98 -131 l 1
- 91 -86 168 18 73 0 c 1
- 73 111 l 1
+83 111 m 5
+ 184 111 l 5
+ 90 -161 l 5
+ 38 -161 l 5
+ 83 111 l 5
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: three
@@ -1997,26 +1994,23 @@ Encoding: 59 59 68
 Width: 256
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 111<73 120.496> 431 111<73 184>
 VStem: 73 111<0 111 431 542>
 LayerCount: 2
 Fore
 SplineSet
+83 111 m 5
+ 184 111 l 5
+ 90 -161 l 5
+ 38 -161 l 5
+ 83 111 l 5
 73 542 m 1
  184 542 l 1
  184 431 l 1
  73 431 l 1
  73 542 l 1
-73 111 m 1
- 184 111 l 1
- 184 0 l 1
- 130 -131 l 1
- 97 -131 l 1
- 90 -86 168 18 73 0 c 1
- 73 111 l 1
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: question
