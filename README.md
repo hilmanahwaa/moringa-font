@@ -20,15 +20,15 @@ Format utama adalah *Splinefont Database*, pengerjaan dengan aplikasi FontForge.
 
 Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri khas dari MAN Lumajang dan produk unggulan Kopsis Al Barokah MAN Lumajang. Kelor juga digunakan dalam motif seragam almamater MAN Lumajang.
 
-## Spesimen
-
-![Sampel font Moringa](images/Font_Sample.png)
-
 ## Download dan Gunakan Font Ini! <small>dalam desain anda</small>
 
 [Klik di sini](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/14611752672/artifacts/download?file_type=archive) untuk mengunduh dari Gitlab. Tersedia juga format UFO untuk pengerjaan di aplikasi lain.
 
 Dibuat secara otomatis oleh GitLab CI, pada tanggal 30 Mei 2026
+
+## Spesimen
+
+![Sampel font Moringa](images/Font_Sample.png)
 
 ## Kekurangan *Font* Ini
 
