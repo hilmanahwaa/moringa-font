@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780101638
+ModificationTime: 1780102644
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -99,11 +99,11 @@ Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -72
+DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 18 7
+WinInfo: 0 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -365,37 +365,36 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 8
-Width: 378
+Width: 386
 VWidth: 1114
 GlyphClass: 2
-Flags: W
-HStem: -4 74<213.665 346.308> 468 68<17 105 195 351>
-VStem: 105 90<91.2461 468 536 689>
+Flags: HW
+HStem: -4 74<221.665 354.308> 468 68<25 113 203 359>
+VStem: 113 90<91.2461 468 536 689>
 LayerCount: 2
 Fore
 SplineSet
-149 37 m 0
- 107 78 105 133 105 244 c 2
- 105 468 l 1
- 17 468 l 1
- 17 536 l 1
- 105 536 l 1
- 105 689 l 1
- 195 689 l 1
- 195 536 l 1
- 351 536 l 1
- 351 468 l 1
- 195 468 l 1
- 195 244 l 2
- 195 237 195 231 195 231 c 2
- 195 130 196 102 224 84 c 0
- 238 74 254 70 272 70 c 0
- 305 70 341 81 341 81 c 1
- 363 14 l 1
- 341 4 304 -4 266 -4 c 0
- 228 -4 183 4 149 37 c 0
+157 37 m 0
+ 115 78 113 133 113 244 c 2
+ 113 468 l 1
+ 25 468 l 1
+ 25 536 l 1
+ 113 536 l 1
+ 113 689 l 1
+ 203 689 l 1
+ 203 536 l 1
+ 359 536 l 1
+ 359 468 l 1
+ 203 468 l 1
+ 203 244 l 2
+ 203 237 203 231 203 231 c 2
+ 203 130 204 102 232 84 c 0
+ 246 74 262 70 280 70 c 0
+ 313 70 349 81 349 81 c 1
+ 371 14 l 1
+ 349 4 312 -4 274 -4 c 0
+ 236 -4 191 4 157 37 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: space
@@ -463,7 +462,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 12
-Width: 450
+Width: 464
 VWidth: 1114
 GlyphClass: 2
 Flags: W
@@ -1243,7 +1242,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 40
-Width: 706
+Width: 679
 VWidth: 1114
 GlyphClass: 2
 Flags: W

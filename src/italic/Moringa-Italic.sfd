@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780101644
+ModificationTime: 1780102652
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -99,11 +99,11 @@ Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -72
+DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 18 7
+WinInfo: 0 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -361,30 +361,29 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 8
-Width: 346
+Width: 376
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
-HStem: 0 23G<110.6 200.8> 468 68<6.1 110.6 200.8 340.5>
-VStem: 111 90<0 467.5 535.7 688.6>
+HStem: 0 23G<130.6 220.8> 468 68<26.1 130.6 220.8 360.5>
+VStem: 131 90<0 467.5 535.7 688.6>
 LayerCount: 2
 Fore
 SplineSet
-111 0 m 1
- 111 468 l 1
- 6 468 l 1
- 6 536 l 1
- 111 536 l 1
- 111 689 l 1
- 201 689 l 1
- 201 536 l 1
- 341 536 l 1
- 341 468 l 1
- 201 468 l 1
- 201 0 l 1
- 111 0 l 1
+131 0 m 1
+ 131 468 l 1
+ 26 468 l 1
+ 26 536 l 1
+ 131 536 l 1
+ 131 689 l 1
+ 221 689 l 1
+ 221 536 l 1
+ 361 536 l 1
+ 361 468 l 1
+ 221 468 l 1
+ 221 0 l 1
+ 131 0 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: space
@@ -452,7 +451,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 12
-Width: 450
+Width: 464
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -1231,7 +1230,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 40
-Width: 706
+Width: 679
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
