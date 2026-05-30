@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780104337
+ModificationTime: 1780104431
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -104,7 +104,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 13 5
+WinInfo: 65 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -128,8 +128,8 @@ Width: 594
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: -4 70<244.495 385.277> 469 72<245.96 384.959> 761 20G<78 167>
-VStem: 78 89<0 90 155.684 378.528 446 781> 457 90<154.45 379.906>
+HStem: -4 70<241.191 389.232> 469 73<241.093 388.902> 759 22G<77.6 166.7>
+VStem: 78 89<0 90.2 151.397 383.203 445.5 781> 457 90<147.371 387.401>
 LayerCount: 2
 Fore
 SplineSet
@@ -142,7 +142,7 @@ SplineSet
  167 781 l 1
  167 536 l 1
  167 446 l 1
- 195 502 255 541 334 541 c 0
+ 195 502 245 541 334 541 c 4
  456 541 547 446 547 267 c 0
  547 88 456 -4 335 -4 c 0
  255 -4 195 34 167 90 c 1
@@ -150,7 +150,6 @@ SplineSet
  78 0 l 5
  78 781 l 5
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: a
@@ -775,8 +774,8 @@ Width: 593
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: -4 70<208.25 348.847> 469 72<208.567 347.392> 761 20G<426 515>
-VStem: 47 90<154.45 379.906> 426 89<0 90 155.684 378.528 446 781>
+HStem: -4 70<203.943 351.809> 469 73<204.273 351.907> 759 22G<426.3 515.4>
+VStem: 47 90<147.371 387.401> 426 89<0 90.2 151.397 383.203 445.5 781>
 LayerCount: 2
 Fore
 SplineSet
@@ -791,12 +790,11 @@ SplineSet
  426 90 l 1
  398 34 338 -4 258 -4 c 0
  137 -4 47 88 47 267 c 0
- 47 446 137 541 259 541 c 0
- 338 541 398 502 426 446 c 1
+ 47 446 137 541 259 541 c 4
+ 348 541 398 502 426 446 c 1
  426 781 l 1
  515 781 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: v
