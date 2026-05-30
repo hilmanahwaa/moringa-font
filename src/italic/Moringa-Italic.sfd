@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780104416
+ModificationTime: 1780106122
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -610,10 +610,9 @@ SplineSet
  440 30 393 -4 297 -4 c 0
  135 -4 47 98 47 267 c 0
  47 446 146 541 280 541 c 0
- 414 541 503 468 492 344 c 0
- 481 218 340 215 144 212 c 1
+ 414 541 502.827148438 468.015625 492 354 c 4
+ 480.043072873 228.087205203 340 215 144 212 c 1
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: f
@@ -2785,7 +2784,6 @@ LayerCount: 2
 Fore
 Refer: 97 768 N 1 0 0 1 125 43 2
 Refer: 17 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: eacute
@@ -2797,7 +2795,6 @@ LayerCount: 2
 Fore
 Refer: 96 769 N 1 0 0 1 196 43 2
 Refer: 17 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Agrave
@@ -3116,7 +3113,6 @@ LayerCount: 2
 Fore
 Refer: 121 770 N 1 0 0 1 136 43 2
 Refer: 17 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: icircumflex
@@ -3631,7 +3627,6 @@ LayerCount: 2
 Fore
 Refer: 143 776 N 1 0 0 1 142 43 2
 Refer: 17 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: idieresis
