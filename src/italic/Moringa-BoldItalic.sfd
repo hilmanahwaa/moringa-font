@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780104162
+ModificationTime: 1780104254
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -103,7 +103,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 13 5
+WinInfo: 26 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -415,23 +415,23 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 11
-Width: 365
+Width: 350
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: -2 122<272 331> 759 22G<86 247>
-VStem: 86 162<144 781>
+Flags: W
+HStem: -2 122<257.042 316> 761 20G<70 232>
+VStem: 70 162<144.801 781>
 LayerCount: 2
 Fore
 SplineSet
-85 781 m 1
- 247 781 l 1
- 247 206 l 2
- 247 150 281 120 337 120 c 1
- 331 -2 l 1
- 291 -2 l 2
- 190 -2 85 71 85 209 c 2
- 85 781 l 1
+70 781 m 1
+ 232 781 l 1
+ 232 206 l 2
+ 232 150 266 120 322 120 c 1
+ 316 -2 l 1
+ 276 -2 l 2
+ 175 -2 70 71 70 209 c 2
+ 70 781 l 1
 EndSplineSet
 EndChar
 
