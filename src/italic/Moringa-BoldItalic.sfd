@@ -1,6 +1,6 @@
 SplineFontDB: 3.2
 FontName: Moringa-BoldItalic
-FullName: Moringa Italic
+FullName: Moringa Bold Italic
 FamilyName: Moringa
 Weight: Bold
 Copyright: Copyright (c) 2025-2026 Hilman Ahwas A.
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780106197
+ModificationTime: 1780106419
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -575,7 +575,7 @@ Encoding: 101 101 17
 Width: 623
 VWidth: 1114
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 HStem: -4 110<248.629 414.502> 220 91<203 423> 429 112<246.699 381.483>
 VStem: 47 156<152.523 220 311.3 382.378> 423 164<311.3 389.209>
 AnchorPoint: "top_accent" 317 541 basechar 0

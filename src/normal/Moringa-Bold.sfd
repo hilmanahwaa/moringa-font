@@ -1,6 +1,6 @@
 SplineFontDB: 3.2
 FontName: Moringa-Bold
-FullName: Moringa
+FullName: Moringa Bold
 FamilyName: Moringa
 Weight: Bold
 Copyright: Copyright (c) 2025-2026 Hilman Ahwas A.
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780105927
+ModificationTime: 1780106434
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
