@@ -5,6 +5,7 @@ FamilyName: Moringa
 Weight: Bold
 Copyright: Copyright (c) 2025-2026 Hilman Ahwas A.
 UComments: "2025-10-6: Created with FontForge (http://fontforge.org)"
+FontLog: "Moringa Font adalah muka huruf (*typeface* / *font*) berjenis *sans-serif* yang didesain untuk materi publikasi oleh club D'Graph. Mengusung tampilan yang formal, modern dan nyaman dibaca, font ini siap memberikan tampilan yang khas untuk seluruh materi pamflet anda.+AAoACgAA-Mengapa diberi nama +ACIA-Moringa+ACIA? Ya, +ACIA-moringa+ACIA adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri khas dari MAN Lumajang dan produk unggulan Kopsis Al Barokah MAN Lumajang. Kelor juga digunakan dalam motif seragam almamater MAN Lumajang.+AAoACgAA-Kami sedang mencari masukan dan kontribusi dari anda, jadi mari suarakan masukan anda mengenai font ini, atau ajukan improvisasi anda, karena kami sangat senang mendengar masukan dari anda!+AAoACgAA-Kode sumber beserta catatan perubahan ada di: https://gitlab.com/kak_hilhilll/moringa-font dan https://github.com/hilmanahwaa/moringa-font. Pengerjaan dengan aplikasi FontForge.+AAoACgAA-Font ini tersedia di bawah lisensi *SIL Open Font License*, versi 1.1. Untuk selengkapnya anda dapat mengunjungi https://scripts.sil.org/OFL"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -102
@@ -22,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780244128
+ModificationTime: 1780318808
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -106,7 +107,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 19 19 8
+WinInfo: 13 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -266,7 +267,7 @@ Encoding: 115 115 5
 Width: 572
 VWidth: 1114
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 HStem: -4 112<196 361> 427 114<230 371>
 VStem: 69 151<337 415> 369 156<120 198>
 LayerCount: 2
