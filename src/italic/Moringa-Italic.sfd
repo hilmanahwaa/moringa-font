@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780322199
+ModificationTime: 1780323269
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -105,7 +105,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 182 13 5
+WinInfo: 0 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1645,16 +1645,16 @@ SplineSet
  475 448 415 396 350 383 c 1
  415 372 497 315 497 200 c 0
  497 88 413 -4 260 -4 c 0
- 163 -4 85 34 41 109 c 1
- 105 145 l 1
- 133 95 194 65 262 65 c 0
+ 163 -4 85 44 41 119 c 5
+ 105 155 l 5
+ 133 105 194 65 262 65 c 0
  342 65 409 109 409 207 c 0xe8
  409 294 353 349 190 349 c 1
  190 414 l 1
  341 414 388 460 388 528 c 0
  388 598 343 653 269 653 c 0
- 201 653 155 620 126 570 c 5
- 63 609 l 5
+ 201 653 155 620 126 570 c 1
+ 63 609 l 1
  107 681 174 724 262 724 c 0xf0
 EndSplineSet
 Substitution2: "TabularFigures-1" three.tnum
@@ -3229,16 +3229,16 @@ SplineSet
  485 448 425 396 360 383 c 1
  425 372 507 315 507 200 c 0
  507 88 423 -4 270 -4 c 0
- 173 -4 95 34 51 109 c 1
- 115 145 l 1
- 143 95 204 65 272 65 c 0
+ 173 -4 95 44 51 119 c 5
+ 115 155 l 5
+ 143 105 204 65 272 65 c 0
  352 65 419 109 419 207 c 0xe8
  419 294 363 349 200 349 c 1
  200 414 l 1
  351 414 398 460 398 528 c 0
  398 598 353 653 279 653 c 0
- 211 653 165 620 136 570 c 5
- 73 609 l 5
+ 211 653 165 620 136 570 c 1
+ 73 609 l 1
  117 681 184 724 272 724 c 0xf0
 EndSplineSet
 EndChar
