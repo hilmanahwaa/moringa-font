@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780390984
+ModificationTime: 1780792741
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -105,7 +105,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 13 5
+WinInfo: 52 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -697,34 +697,33 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 21
-Width: 772
+Width: 749
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 23G<183.204 276.663 495.575 589.096> 514 22G<29.2 123.071 335.844 436.456 648.187 743.1>
+Flags: W
+HStem: 0 21G<172.993 264.995 485.005 577.97> 516 20G<18 111.365 325.776 425.224 637.729 732>
 LayerCount: 2
 Fore
 SplineSet
-29 536 m 1
- 117 536 l 1
- 231 111 l 1
- 342 536 l 1
- 431 536 l 1
- 542 111 l 1
- 654 536 l 1
- 743 536 l 1
- 583 0 l 1
- 574 0 l 1
- 511 0 l 1
- 502 0 l 1
- 386 387 l 1
- 270 0 l 1
- 260 0 l 1
- 199 0 l 1
- 190 0 l 1
- 29 536 l 1
+18 536 m 1
+ 106 536 l 1
+ 220 111 l 1
+ 331 536 l 1
+ 420 536 l 1
+ 531 111 l 1
+ 643 536 l 1
+ 732 536 l 1
+ 572 0 l 1
+ 563 0 l 1
+ 500 0 l 1
+ 491 0 l 1
+ 375 387 l 1
+ 259 0 l 1
+ 249 0 l 1
+ 188 0 l 1
+ 179 0 l 1
+ 18 536 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u
@@ -1485,32 +1484,31 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 50
-Width: 939
+Width: 904
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 23G<214.008 329.563 611.121 726.592> 714 22G<35.8 130.718 409.242 531.398 809.924 904.8>
+Flags: W
+HStem: 0 21G<196.027 311.043 593.991 708> 716 20G<18 112.279 391.499 512.569 792.755 887>
 LayerCount: 2
 Fore
 SplineSet
-36 736 m 1
- 125 736 l 1
- 281 145 l 1
- 414 736 l 1
- 433 736 l 1
- 509 736 l 1
- 526 736 l 1
- 661 145 l 1
- 816 736 l 1
- 905 736 l 1
- 721 0 l 1
- 617 0 l 1
- 471 583 l 1
- 324 0 l 1
- 219 0 l 1
- 36 736 l 1
+18 736 m 1
+ 107 736 l 1
+ 263 145 l 1
+ 396 736 l 1
+ 415 736 l 1
+ 491 736 l 1
+ 508 736 l 1
+ 643 145 l 1
+ 798 736 l 1
+ 887 736 l 1
+ 703 0 l 1
+ 599 0 l 1
+ 453 583 l 1
+ 306 0 l 1
+ 201 0 l 1
+ 18 736 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: X

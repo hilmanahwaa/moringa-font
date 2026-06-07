@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780390984
+ModificationTime: 1780792586
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -98,14 +98,14 @@ KernClass2: 25 23 "LatinKerning subtable"
  1 Z
  0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -88 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -65 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -44 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} -30 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: ISO8859-1
+Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 13 5
+WinInfo: 208 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -121,7 +121,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 368640 184320 122880 503808 1048576 122880 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom_accent"""  "top_accent""" 
-BeginChars: 273 169
+BeginChars: 65546 169
 
 StartChar: b
 Encoding: 98 98 0
@@ -712,34 +712,33 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 21
-Width: 772
+Width: 749
 VWidth: 1114
 GlyphClass: 2
-Flags: W
-HStem: 0 21G<183.993 275.995 496.005 588.97> 516 20G<29 122.365 336.776 436.224 648.729 743>
+Flags: HW
+HStem: 0 21G<172.993 264.995 485.005 577.97> 516 20G<18 111.365 325.776 425.224 637.729 732>
 LayerCount: 2
 Fore
 SplineSet
-29 536 m 1
- 117 536 l 1
- 231 111 l 1
- 342 536 l 1
- 431 536 l 1
- 542 111 l 1
- 654 536 l 1
- 743 536 l 1
- 583 0 l 1
- 574 0 l 1
- 511 0 l 1
- 502 0 l 1
- 386 387 l 1
- 270 0 l 1
- 260 0 l 1
- 199 0 l 1
- 190 0 l 1
- 29 536 l 1
+18 536 m 1
+ 106 536 l 1
+ 220 111 l 1
+ 331 536 l 1
+ 420 536 l 1
+ 531 111 l 1
+ 643 536 l 1
+ 732 536 l 1
+ 572 0 l 1
+ 563 0 l 1
+ 500 0 l 1
+ 491 0 l 1
+ 375 387 l 1
+ 259 0 l 1
+ 249 0 l 1
+ 188 0 l 1
+ 179 0 l 1
+ 18 536 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: u
@@ -1509,32 +1508,31 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 50
-Width: 939
+Width: 904
 VWidth: 1114
 GlyphClass: 2
-Flags: W
-HStem: 0 21G<214.027 329.043 611.991 726> 716 20G<36 130.279 409.499 530.569 810.755 905>
+Flags: HW
+HStem: 0 21G<196.027 311.043 593.991 708> 716 20G<18 112.279 391.499 512.569 792.755 887>
 LayerCount: 2
 Fore
 SplineSet
-36 736 m 1
- 125 736 l 1
- 281 145 l 1
- 414 736 l 1
- 433 736 l 1
- 509 736 l 1
- 526 736 l 1
- 661 145 l 1
- 816 736 l 1
- 905 736 l 1
- 721 0 l 1
- 617 0 l 1
- 471 583 l 1
- 324 0 l 1
- 219 0 l 1
- 36 736 l 1
+18 736 m 1
+ 107 736 l 1
+ 263 145 l 1
+ 396 736 l 1
+ 415 736 l 1
+ 491 736 l 1
+ 508 736 l 1
+ 643 145 l 1
+ 798 736 l 1
+ 887 736 l 1
+ 703 0 l 1
+ 599 0 l 1
+ 453 583 l 1
+ 306 0 l 1
+ 201 0 l 1
+ 18 736 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: X
@@ -2730,7 +2728,7 @@ Validated: 1
 EndChar
 
 StartChar: acutecomb
-Encoding: 256 769 96
+Encoding: 769 769 96
 Width: 218
 VWidth: 1013
 GlyphClass: 2
@@ -2751,7 +2749,7 @@ Validated: 1
 EndChar
 
 StartChar: gravecomb
-Encoding: 257 768 97
+Encoding: 768 768 97
 Width: 218
 VWidth: 1013
 GlyphClass: 2
@@ -2772,7 +2770,7 @@ Validated: 1
 EndChar
 
 StartChar: dotlessi
-Encoding: 258 305 98
+Encoding: 305 305 98
 Width: 262
 VWidth: 1114
 Flags: W
@@ -3101,7 +3099,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0302
-Encoding: 259 770 121
+Encoding: 770 770 121
 Width: 282
 VWidth: 1013
 Flags: W
@@ -3265,7 +3263,7 @@ Validated: 1
 EndChar
 
 StartChar: zero.tnum
-Encoding: 260 -1 132
+Encoding: 65536 -1 132
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3289,7 +3287,7 @@ Validated: 1
 EndChar
 
 StartChar: one.tnum
-Encoding: 261 -1 133
+Encoding: 65537 -1 133
 Width: 579
 VWidth: 1114
 Flags: HW
@@ -3316,7 +3314,7 @@ Validated: 1
 EndChar
 
 StartChar: two.tnum
-Encoding: 262 -1 134
+Encoding: 65538 -1 134
 Width: 579
 VWidth: 1114
 Flags: HW
@@ -3342,7 +3340,7 @@ Validated: 1
 EndChar
 
 StartChar: three.tnum
-Encoding: 263 -1 135
+Encoding: 65539 -1 135
 Width: 573
 VWidth: 1114
 Flags: HW
@@ -3371,7 +3369,7 @@ EndSplineSet
 EndChar
 
 StartChar: four.tnum
-Encoding: 264 -1 136
+Encoding: 65540 -1 136
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3401,7 +3399,7 @@ Validated: 1
 EndChar
 
 StartChar: five.tnum
-Encoding: 265 -1 137
+Encoding: 65541 -1 137
 Width: 579
 VWidth: 1114
 Flags: HW
@@ -3430,7 +3428,7 @@ Validated: 1
 EndChar
 
 StartChar: six.tnum
-Encoding: 266 -1 138
+Encoding: 65542 -1 138
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3457,7 +3455,7 @@ Validated: 1
 EndChar
 
 StartChar: seven.tnum
-Encoding: 267 -1 139
+Encoding: 65543 -1 139
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3478,7 +3476,7 @@ Validated: 1
 EndChar
 
 StartChar: eight.tnum
-Encoding: 268 -1 140
+Encoding: 65544 -1 140
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3511,7 +3509,7 @@ Validated: 1
 EndChar
 
 StartChar: nine.tnum
-Encoding: 269 -1 141
+Encoding: 65545 -1 141
 Width: 579
 VWidth: 1114
 Flags: W
@@ -3538,7 +3536,7 @@ Validated: 1
 EndChar
 
 StartChar: tildecomb
-Encoding: 270 771 142
+Encoding: 771 771 142
 Width: 320
 VWidth: 1114
 Flags: W
@@ -3637,7 +3635,7 @@ Validated: 1
 EndChar
 
 StartChar: uni030A
-Encoding: 271 778 149
+Encoding: 778 778 149
 Width: 216
 VWidth: 1013
 Flags: W
@@ -3686,7 +3684,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0308
-Encoding: 272 776 152
+Encoding: 776 776 152
 Width: 274
 VWidth: 1013
 Flags: W
@@ -3983,8 +3981,8 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-313.07421875 737.986328125 m 0
- 454.9921875 739.21484375 536.999023438 657.24609375 536.999023438 469.7578125 c 1
+313.07421875 740.986328125 m 0
+ 454.9921875 742.21484375 536.999023438 657.24609375 536.999023438 469.7578125 c 1
  448 469.7578125 l 2
  386 469.7578125 341 448.7578125 341 397.7578125 c 0
  341 339.7578125 377 331.7578125 409 323.7578125 c 0
@@ -3998,12 +3996,12 @@ SplineSet
  377 252.7578125 252 272.7578125 252 392.7578125 c 0
  252 479.7578125 324 542.18359375 437 542.18359375 c 1
  436.736328125 542.18359375 l 1
- 436.736328125 612.577148438 393.317382812 664.41796875 313.07421875 662.087890625 c 0
- 232.831054688 659.7578125 153 606.734375 153 497.1171875 c 2
+ 436.736328125 612.577148438 393.317382812 667.41796875 313.07421875 665.087890625 c 0
+ 232.831054688 662.7578125 153 606.734375 153 497.1171875 c 2
  153 0.7578125 l 1
  64 0.7578125 l 1
  64 497.416015625 l 2
- 64 649.39453125 171.15625 736.7578125 313.07421875 737.986328125 c 0
+ 64 649.39453125 171.15625 739.7578125 313.07421875 740.986328125 c 0
 EndSplineSet
 EndChar
 EndChars
