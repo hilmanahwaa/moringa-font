@@ -1,19 +1,23 @@
 
 .PHONY: % all clean
 
-truetype   : Moringa-Regular.ttf  Moringa-Italic.ttf  Moringa-Bold.ttf  Moringa-BoldItalic.ttf
+truetype   : Moringa-Regular.ttf    Moringa-Italic.ttf    Moringa-Bold.ttf    Moringa-BoldItalic.ttf
 
-webfonts   : Moringa-Regular.woff Moringa-Italic.woff Moringa-Bold.woff Moringa-BoldItalic.woff
+webfonts   : Moringa-Regular.woff   Moringa-Italic.woff   Moringa-Bold.woff   Moringa-BoldItalic.woff
 
-unifontobj : Moringa-Regular.ufo  Moringa-Italic.ufo  Moringa-Bold.ufo  Moringa-BoldItalic.ufo
+webfonts2  : Moringa-Regular.woff2  Moringa-Italic.woff2  Moringa-Bold.woff2  Moringa-BoldItalic.woff2
 
-%.ttf %.woff %.ufo: src/normal/%.sfd dist/
+unifontobj : Moringa-Regular.ufo    Moringa-Italic.ufo    Moringa-Bold.ufo    Moringa-BoldItalic.ufo
+
+svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Moringa-BoldItalic.svg
+
+%.ttf %.woff %.woff2 %.ufo %.svg: src/normal/%.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); Generate($$2)' $< dist/$@
 
-%Italic.ttf %Italic.woff %Italic.ufo: src/italic/%Italic.sfd dist/
+%Italic.ttf %Italic.woff %Italic.woff2 %Italic.ufo %Italic.svg: src/italic/%Italic.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); Skew(8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
-all: truetype opentype unifontobj
+all: truetype webfonts unifontobj
 
 clean:
 	rm -rvf dist/*.ttf dist/*.ufo dist/*.woff
