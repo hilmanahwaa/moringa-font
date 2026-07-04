@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1780815745
+ModificationTime: 1783178551
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -97,7 +97,7 @@ KernClass2: 26 23 "LatinKerning subtable"
  10 X Y Yacute
  23 comma period underscore
  1 Z
- 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -88 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -44 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} -40 {} 0 {} -20 {} 0 {} 0 {} 0 {} -30 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -30 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -58 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -55 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -95 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -100 {} 0 {} 0 {} 0 {} -44 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} -44 {} 0 {} 0 {} 0 {} -118 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -88 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} -40 {} 0 {} -20 {} 0 {} 0 {} 0 {} -30 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -120 {} -30 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -66 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -110 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
@@ -106,7 +106,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 18 18 7
+WinInfo: 0 25 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -398,21 +398,21 @@ VStem: 89 154<471.107 590.942> 497 159<142.582 252.894>
 LayerCount: 2
 Fore
 SplineSet
-354 741 m 4
- 489 741 574 692 619 593 c 1
- 501 539 l 1
- 460 603 416 622 365 622 c 0
+354 741 m 0
+ 482 741 567 690 619 593 c 1
+ 503 537 l 1
+ 464 601 416 622 365 622 c 0
  271 622 243 585 243 526 c 0
- 243 469 288 445 345 434 c 0
- 418 421 656 393 656 201 c 0
- 656 65 541 -4 367 -4 c 4
+ 243 469 288.33068057 449.593182096 345 437 c 0
+ 435 417 656 393 656 201 c 0
+ 656 65 541 -4 367 -4 c 0
  214 -4 115 49 47 153 c 1
- 157 227 l 5
- 219 148 285 114 362 114 c 4
- 449 114 497 138 497 196 c 0
- 497 269 431 291 342 306 c 0
- 298 313 89 352 89 534 c 0
- 89 658 178 741 354 741 c 4
+ 157 227 l 1
+ 219 148 285 114 362 114 c 0
+ 449 114 497 141 497 196 c 0
+ 497 269 429.943866162 282.705261655 342 303 c 0
+ 238 327 89 378 89 534 c 0
+ 89 658 181 741 354 741 c 0
 EndSplineSet
 EndChar
 
@@ -986,8 +986,8 @@ Fore
 SplineSet
 85 736 m 1
  458 736 l 2
- 637 736 728 605 728 499 c 4
- 728 370 638 266 477 257 c 5
+ 637 736 728 625 728 499 c 4
+ 728 350 638 266 477 257 c 5
  566 202 738 0 738 0 c 1
  551 0 l 1
  551 0 359 246 282 246 c 3
@@ -1167,14 +1167,14 @@ Fore
 SplineSet
 85 736 m 1
  247 736 l 1
- 247 410 l 1
- 486 736 l 1
- 672 736 l 1
- 403 395 l 1
- 696 0 l 1
- 500 0 l 1
- 315 290 l 1
- 247 204 l 5
+ 247 403 l 5
+ 510 736 l 1
+ 685 736 l 1
+ 430 416 l 1
+ 716 0 l 1
+ 530 0 l 1
+ 335 305 l 1
+ 247 198 l 1
  247 0 l 1
  85 0 l 1
  85 736 l 1
@@ -1193,9 +1193,9 @@ LayerCount: 2
 Fore
 SplineSet
 85 736 m 1
- 458 736 l 2
- 637 736 716 601 716 497 c 0
- 716 393 637 246 458 246 c 2
+ 458 736 l 6
+ 637 736 716 621 716 497 c 4
+ 716 373 637 246 458 246 c 2
  247 246 l 1
  247 0 l 1
  85 0 l 1
@@ -1269,24 +1269,24 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 43
-Width: 639
+Width: 393
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
-HStem: -4 124<224.361 380.035> 714 22G<424.1 585.8>
-VStem: 424 162<168.241 735.9>
+HStem: -4 124<120.111 267.564> 716 20G<316 478>
+VStem: 316 162<174.098 736>
 LayerCount: 2
 Fore
 SplineSet
-424 736 m 1
- 586 736 l 1
- 586 273 l 2
- 586 93 472 0 326 -4 c 1
- 192 0 72 44 36 180 c 1
- 171 227 l 1
- 202 147 240 120 303 120 c 0
- 377 120 424 157 424 288 c 2
- 424 736 l 1
+146 736 m 1
+ 308 736 l 1
+ 308 49 l 6
+ 308 -131 196 -228 48 -228 c 7
+ -26 -228 -80 -208 -80 -208 c 5
+ -59 -92 l 6
+ -59 -92 -14 -104 25 -104 c 5
+ 103 -104 146 -67 146 64 c 6
+ 146 736 l 1
 EndSplineSet
 EndChar
 
@@ -1295,23 +1295,22 @@ Encoding: 85 85 44
 Width: 739
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: -4 114<284.151 456.047> 714 22G<65.5 227.2 512.1 673.8>
-VStem: 66 162<180.315 735.9> 512 162<180.315 735.9>
-AnchorPoint: "top_accent" 375 736 basechar 0
+Flags: W
+HStem: -4 114<288.858 450.976> 716 20G<65 227 512 674>
+VStem: 65 162<180.555 736> 512 162<180.555 736>
 LayerCount: 2
 Fore
 SplineSet
 65 736 m 1
  227 736 l 1
- 227 329 l 2
- 227 173 264 110 370 110 c 0
- 476 110 512 173 512 329 c 2
+ 227 339 l 2
+ 227 183 264 120 370 120 c 0
+ 476 120 512 183 512 339 c 2
  512 736 l 1
  674 736 l 1
- 674 315 l 2
- 674 77 526 -4 370 -4 c 0
- 214 -4 65 77 65 315 c 2
+ 674 305 l 6
+ 674 67 526 -4 370 -4 c 0
+ 214 -4 65 67 65 305 c 6
  65 736 l 1
 EndSplineSet
 EndChar
@@ -1558,19 +1557,19 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 55
-Width: 260
+Width: 245
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-VStem: 61 160<0 135.3>
+Flags: W
+VStem: 46 160<0 135.3>
 LayerCount: 2
 Fore
 SplineSet
-80 135 m 5
- 221 135 l 1
- 126 -161 l 1
- 30 -161 l 1
- 80 135 l 5
+65 135 m 5
+ 206 135 l 1
+ 111 -161 l 1
+ 15 -161 l 1
+ 65 135 l 5
 EndSplineSet
 EndChar
 
@@ -1669,7 +1668,7 @@ Encoding: 53 53 59
 Width: 646
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -4 113<227.496 399.663> 341 114<249 392.548> 609 109<260 564>
 VStem: 441 159<151.15 291.757>
 LayerCount: 2
@@ -1682,10 +1681,10 @@ SplineSet
  249 455 l 1
  328 455 l 2
  489 455 600 372 600 227 c 0
- 600 85 495 -4 325 -4 c 4
+ 600 85 495 -4 325 -4 c 0
  228 -4 107 27 47 133 c 1
- 174 187 l 1
- 202 137 248 109 316 109 c 0
+ 154 207 l 5
+ 184 157 248 109 316 109 c 0
  391 109 441 144 441 220 c 0
  441 294 394 341 306 341 c 2
  87 341 l 1
@@ -3167,7 +3166,7 @@ StartChar: five.tnum
 Encoding: 65541 -1 137
 Width: 633
 VWidth: 1114
-Flags: W
+Flags: HW
 HStem: -4 113<220.496 392.448> 341 114<242 385.187> 609 109<253 557>
 VStem: 433 160<151.15 292.913>
 LayerCount: 2
@@ -3180,10 +3179,10 @@ SplineSet
  242 455 l 1
  321 455 l 2
  482 455 593 372 593 227 c 0
- 593 85 488 -4 318 -4 c 4
+ 593 85 488 -4 318 -4 c 0
  221 -4 100 27 40 133 c 1
- 167 187 l 1
- 195 137 241 109 309 109 c 0
+ 147 207 l 1
+ 177 157 241 109 309 109 c 0
  384 109 433 144 433 220 c 0
  433 294 387 341 299 341 c 2
  80 341 l 1
@@ -3559,22 +3558,22 @@ LayerCount: 2
 Fore
 SplineSet
 65 449 m 2
- 65 608 193 740 385 740 c 0
+ 65 628 193 740 385 740 c 0
  564 740 667 650 667 491 c 2
  667 428 l 1
  525 428 l 2
  484 428 469 409 469 375 c 0
  469 350 490 329 539 323 c 0
- 661 307 735 265 735 158 c 0
- 735 41 639 -3 520 -3 c 0
+ 661 307 735 255 735 158 c 0
+ 735 41 639 -3 520 -3 c 4
  412 -3 338 35 287 111 c 1
  397 180 l 1
  422 144 461 109 515 109 c 0
  567 109 579 126 579 157 c 0
  579 187 560 209 502 219 c 0
  389 239 319 285 319 384 c 0
- 319 499 424 542 505 542 c 1
- 501 579 478 617 394 617 c 0
+ 319 499 424 522 505 522 c 1
+ 504 569 478 617 394 617 c 0
  297 617 227 547 227 460 c 2
  227 1 l 1
  65 1 l 1
