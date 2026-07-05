@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1782802124
+ModificationTime: 1783266417
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -45,12 +45,13 @@ HheadDescent: 0
 HheadDOffset: 1
 OS2FamilyClass: 1282
 OS2Vendor: 'kHil'
+Lookup: 1 0 0 "CharVar01" { "CharVar01-1"  } ['cv01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "TabularFigures" { "TabularFigures-1"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "LatinKerning" { "LatinKerning subtable" [154,0,4] } ['kern' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 26 23 "LatinKerning subtable"
- 87 zero three eight nine B C D G O Q U Ograve Oacute Ocircumflex Ugrave Uacute Ucircumflex
+ 94 zero three eight nine B C D G O Q U Ograve Oacute Ocircumflex Ugrave Uacute Ucircumflex G.cv01
  69 one H I M N d q u Igrave Iacute Icircumflex ugrave uacute ucircumflex
  1 T
  139 a b c e o p agrave aacute acircumflex atilde adieresis aring egrave eacute ecircumflex edieresis ograve oacute ocircumflex otilde odieresis
@@ -106,7 +107,7 @@ DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 50 25 9
+WinInfo: 65312 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -122,7 +123,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 368640 184320 122880 503808 1048576 122880 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom_accent"""  "top_accent""" 
-BeginChars: 65546 169
+BeginChars: 65547 170
 
 StartChar: b
 Encoding: 98 98 0
@@ -1055,31 +1056,30 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 33
-Width: 721
+Width: 781
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -4 70<274.626 444.96> 669 72<274.926 445.296>
 VStem: 71 89<212.84 521.52> 562 89<214.624 521.309>
 LayerCount: 2
 Fore
 SplineSet
-360 669 m 0
- 226 669 160 543 160 367 c 0
- 160 191 226 66 360 66 c 0
- 494 66 562 191 562 367 c 0
- 562 543 494 669 360 669 c 0
-360 741 m 0
- 550 741 651 595 651 366 c 0
- 651 220 610 106 529 46 c 1
- 617 -41 l 1
- 552 -104 l 1
- 443 4 l 1
- 418 -3 390 -4 359 -4 c 0
- 170 -4 71 139 71 367 c 0
- 71 595 170 741 360 741 c 0
+390 669 m 0
+ 246 669 160 543 160 367 c 0
+ 160 191 246 66 390 66 c 0
+ 524 66 622 191 622 367 c 0
+ 622 543 534 669 390 669 c 0
+390 741 m 0
+ 590 741 711 595 711 366 c 0
+ 711 220 643 108 562 48 c 5
+ 647 -41 l 1
+ 582 -104 l 1
+ 482 6 l 1
+ 457 -1 420 -4 389 -4 c 0
+ 190 -4 71 139 71 367 c 0
+ 71 595 190 741 390 741 c 0
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: z
@@ -1328,6 +1328,7 @@ SplineSet
  65 595 174 741 378 741 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "CharVar01-1" G.cv01
 EndChar
 
 StartChar: J
@@ -1478,28 +1479,27 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 49
-Width: 733
+Width: 793
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: -4 70<281.848 452.185> 669 72<281.848 452.185>
-VStem: 78 88<212.84 521.52> 568 89<212.84 521.52>
-AnchorPoint: "top_accent" 367 741 basechar 0
+HStem: -4 70<300.701 493.338> 669 72<300.701 493.338>
+VStem: 78 88<227.928 506.362> 628 89<227.928 506.362>
+AnchorPoint: "top_accent" 397 741 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-367 669 m 0
- 233 669 166 543 166 367 c 0
- 166 191 233 66 367 66 c 0
- 501 66 568 191 568 367 c 0
- 568 543 501 669 367 669 c 0
-367 741 m 0
- 557 741 657 595 657 367 c 0
- 657 139 557 -4 367 -4 c 0
- 177 -4 78 139 78 367 c 0
- 78 595 177 741 367 741 c 0
+397 669 m 4
+ 253 669 166 543 166 367 c 0
+ 166 191 253 66 397 66 c 4
+ 541 66 628 191 628 367 c 0
+ 628 543 541 669 397 669 c 4
+397 741 m 4
+ 597 741 717 595 717 367 c 0
+ 717 139 597 -4 397 -4 c 4
+ 197 -4 78 139 78 367 c 0
+ 78 595 197 741 397 741 c 4
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: W
@@ -2923,30 +2923,28 @@ EndChar
 
 StartChar: Ograve
 Encoding: 210 210 109
-Width: 733
+Width: 793
 VWidth: 1126
-Flags: W
+Flags: HW
 HStem: -4 70<281.848 452.185> 669 72<281.848 452.185> 846 147
 VStem: 78 88<212.84 521.52> 215 214 568 89<212.84 521.52>
 LayerCount: 2
 Fore
 Refer: 97 768 N 1 0 0 1 212 243 2
 Refer: 49 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Oacute
 Encoding: 211 211 110
-Width: 733
+Width: 793
 VWidth: 1126
-Flags: W
+Flags: HW
 HStem: -4 70<281.848 452.185> 669 72<281.848 452.185> 846 147
 VStem: 78 88<212.84 521.52> 286 214 568 89<212.84 521.52>
 LayerCount: 2
 Fore
 Refer: 96 769 N 1 0 0 1 283 243 2
 Refer: 49 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Igrave
@@ -3155,16 +3153,15 @@ EndChar
 
 StartChar: Ocircumflex
 Encoding: 212 212 125
-Width: 733
+Width: 793
 VWidth: 1126
-Flags: W
+Flags: HW
 HStem: -4 70<281.848 452.185> 669 72<281.848 452.185> 846 151
 VStem: 78 88<212.84 521.52> 223 282 568 89<212.84 521.52>
 LayerCount: 2
 Fore
 Refer: 121 770 N 1 0 0 1 223 243 2
 Refer: 49 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Ucircumflex
@@ -3576,14 +3573,14 @@ EndChar
 
 StartChar: Otilde
 Encoding: 213 213 145
-Width: 733
+Width: 793
+Flags: HW
 HStem: -4 70<281.848 452.185> 669 72<281.848 452.185> 847 52<393.378 465.977> 917 53<273.297 342.684> 942 20G<492 528>
 VStem: 78 88<212.84 521.52> 208 320 568 89<212.84 521.52>
 LayerCount: 2
 Fore
 Refer: 142 771 N 1 0 0 1 208 243 2
 Refer: 49 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: atilde
@@ -3736,14 +3733,14 @@ EndChar
 
 StartChar: Odieresis
 Encoding: 214 214 156
-Width: 733
+Width: 793
+Flags: HW
 HStem: -4 70<281.848 452.185> 669 72<281.848 452.185> 843 94<236.394 315.606 416.394 495.606>
 VStem: 78 88<212.84 521.52> 229 94<850.394 929.606> 409 94<850.394 929.606> 568 89<212.84 521.52>
 LayerCount: 2
 Fore
 Refer: 152 776 N 1 0 0 1 229 243 2
 Refer: 49 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -3992,6 +3989,36 @@ SplineSet
  64 0.7578125 l 1
  64 497.416015625 l 2
  64 649.39453125 171.15625 739.7578125 313.07421875 740.986328125 c 0
+EndSplineSet
+EndChar
+
+StartChar: G.cv01
+Encoding: 65546 -1 169
+Width: 709
+VWidth: 1114
+Flags: HW
+HStem: -4 70<289.684 494.106> 323 66<379 555> 669 72<286.584 482.187>
+VStem: 65 88<227.928 506.362> 555 90<113.367 323>
+LayerCount: 2
+Fore
+SplineSet
+378 741 m 0
+ 489 741 570 699 622 625 c 1
+ 559 579 l 1
+ 517 639 456 669 382 669 c 0
+ 234 669 153 543 153 367 c 0
+ 153 191 224 66 381 66 c 0
+ 470 66 555 147 555 229 c 2
+ 555 315 l 1
+ 379 315 l 1
+ 379 389 l 1
+ 645 389 l 1
+ 645 0 l 1
+ 560 0 l 1
+ 555 96.4560546875 l 5
+ 544 48 475 -4 372 -4 c 4
+ 164 -4 65 139 65 367 c 0
+ 65 595 174 741 378 741 c 0
 EndSplineSet
 EndChar
 EndChars
