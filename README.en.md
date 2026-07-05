@@ -20,9 +20,9 @@ Moringa is one of the distinguishing features of MAN Lumajang and the flagship p
 
 ## Download and Use This Font! <small>in your designs</small>
 
-[Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15179542113/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
+[Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15186034618/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
 
-Generated automatically by Gitlab CI, on 01 June 2026
+Generated automatically by Gitlab CI, on 05 July 2026
 
 ## Specimen
 
