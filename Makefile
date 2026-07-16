@@ -15,7 +15,7 @@ svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Mo
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
 %Italic.ttf %Italic.woff %Italic.woff2 %Italic.ufo %Italic.svg: src/italic/%Italic.sfd dist/
-	fontforge -lang=ff -c 'Open($$1); SelectAll(); Skew(8, 0, 0); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
+	fontforge -lang=ff -c 'Open($$1); SelectGlyphsSplines(); Skew(8, 0, 0); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
 all: truetype webfonts unifontobj
 
