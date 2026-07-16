@@ -1,15 +1,15 @@
 
 .PHONY: % all clean
 
-truetype   : Moringa-Regular.ttf    Moringa-Italic.ttf    Moringa-Bold.ttf    Moringa-BoldItalic.ttf
+truetype   : Moringa-Regular.ttf    Moringa-Italic.ttf    Moringa-Bold.ttf    Moringa-BoldItalic.ttf    Moringa-Black.ttf
 
-webfonts   : Moringa-Regular.woff   Moringa-Italic.woff   Moringa-Bold.woff   Moringa-BoldItalic.woff
+webfonts   : Moringa-Regular.woff   Moringa-Italic.woff   Moringa-Bold.woff   Moringa-BoldItalic.woff   Moringa-Black.woff
 
-webfonts2  : Moringa-Regular.woff2  Moringa-Italic.woff2  Moringa-Bold.woff2  Moringa-BoldItalic.woff2
+webfonts2  : Moringa-Regular.woff2  Moringa-Italic.woff2  Moringa-Bold.woff2  Moringa-BoldItalic.woff2  Moringa-Black.woff2
 
-unifontobj : Moringa-Regular.ufo    Moringa-Italic.ufo    Moringa-Bold.ufo    Moringa-BoldItalic.ufo
+unifontobj : Moringa-Regular.ufo    Moringa-Italic.ufo    Moringa-Bold.ufo    Moringa-BoldItalic.ufo    Moringa-Black.ufo
 
-svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Moringa-BoldItalic.svg
+svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Moringa-BoldItalic.svg    Moringa-Black.svg
 
 %.ttf %.woff %.woff2 %.ufo %.svg: src/normal/%.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
