@@ -11,18 +11,17 @@ Fore
 SplineSet
 84 736 m 1
  209 736 l 1
- 431 298 l 1
+ 431 308 l 5
  655 736 l 1
  779 736 l 1
  779 0 l 1
  690 0 l 1
  690 627 l 1
- 464 168 l 1
- 399 168 l 1
+ 454 178 l 1
+ 409 178 l 1
  173 627 l 1
  173 0 l 1
  84 0 l 1
  84 736 l 1
 EndSplineSet
-Validated: 1
 EndChar

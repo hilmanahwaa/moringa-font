@@ -3,14 +3,14 @@ Encoding: 117 117 22
 Width: 611
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -4 70<212.844 355.158> 516 20G<65 155 445 535>
 VStem: 65 90<128.752 536> 445 90<0 100 164.583 536>
 LayerCount: 2
 Fore
 SplineSet
-267 -4 m 0
- 156 -4 65 72 65 222 c 2
+267 -9 m 4
+ 156 -9 65 72 65 222 c 2
  65 536 l 1
  155 536 l 1
  155 222 l 2
@@ -21,7 +21,6 @@ SplineSet
  535 0 l 1
  445 0 l 1
  445 100 l 1
- 417 44 356 -4 267 -4 c 0
+ 417 44 356 -9 267 -9 c 4
 EndSplineSet
-Validated: 1
 EndChar

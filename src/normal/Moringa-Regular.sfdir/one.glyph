@@ -1,6 +1,6 @@
 StartChar: one
 Encoding: 49 49 61
-Width: 402
+Width: 422
 VWidth: 1114
 GlyphClass: 2
 Flags: W
@@ -19,6 +19,5 @@ SplineSet
  53 631 l 1
  231 718 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "TabularFigures-1" one.tnum
 EndChar

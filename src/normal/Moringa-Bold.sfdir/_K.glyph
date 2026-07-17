@@ -1,6 +1,6 @@
 StartChar: K
 Encoding: 75 75 39
-Width: 716
+Width: 746
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -12,12 +12,12 @@ SplineSet
 85 736 m 1
  247 736 l 1
  247 403 l 1
- 505 736 l 5
- 685 736 l 1
- 430 416 l 1
- 716 0 l 1
- 520 0 l 1
- 332 304 l 1
+ 515 736 l 1
+ 715 736 l 1
+ 450 416 l 1
+ 746 0 l 1
+ 550 0 l 1
+ 342 304 l 1
  247 210 l 1
  247 0 l 1
  85 0 l 1

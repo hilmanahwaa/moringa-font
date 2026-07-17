@@ -1,6 +1,6 @@
 StartChar: K
 Encoding: 75 75 39
-Width: 630
+Width: 620
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -11,17 +11,15 @@ Fore
 SplineSet
 84 736 m 1
  173 736 l 1
- 173 378 l 1
- 509 736 l 1
- 620 736 l 1
- 324 421 l 1
+ 173 398 l 1
+ 450 736 l 1
+ 560 736 l 1
+ 263 372 l 5
  620 0 l 1
- 509 0 l 1
- 265 359 l 1
- 173 260 l 1
+ 499 0 l 1
+ 173 345 l 1
  173 0 l 1
  84 0 l 1
  84 736 l 1
 EndSplineSet
-Validated: 1
 EndChar

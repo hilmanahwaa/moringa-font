@@ -6,21 +6,20 @@ GlyphClass: 2
 Flags: HW
 HStem: -4 70<205.24 369.785> 469 72<207.448 368.171>
 VStem: 36 90<155.916 378.419>
-AnchorPoint: "bottom_accent" 280 -4 basechar 0
+AnchorPoint: "bottom_accent" 280 -9 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-278 541 m 4
- 385 541 458 497 496 421 c 1
+278 546 m 0
+ 385 546 458 497 496 421 c 1
  425 389 l 1
  390 449 337 469 289 469 c 0
  195 469 126 402 126 267 c 0
  126 132 195 66 289 66 c 0
  337 66 390 85 425 145 c 1
  496 113 l 1
- 458 37 386 -4 280 -4 c 4
- 137 -4 36 88 36 267 c 0
- 36 446 136 541 278 541 c 4
+ 458 37 386 -9 280 -9 c 4
+ 137 -9 36 88 36 267 c 0
+ 36 446 136 546 278 546 c 0
 EndSplineSet
-Validated: 1
 EndChar
