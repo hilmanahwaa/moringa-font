@@ -10,8 +10,8 @@ AnchorPoint: "top_accent" 343 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-280 -4 m 0
- 156 -4 64 74 64 224 c 2
+280 -9 m 4
+ 136 -9 64 74 64 224 c 2
  64 536 l 1
  226 536 l 1
  226 263 l 2
@@ -21,7 +21,7 @@ SplineSet
  607 536 l 1
  607 0 l 1
  456 0 l 1
- 444 79 l 1
- 416 35 368 -4 280 -4 c 0
+ 444 79 l 5
+ 421 35 388 -9 280 -9 c 4
 EndSplineSet
 EndChar
