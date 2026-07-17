@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1784206823
+ModificationTime: 1784246735
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -188,27 +188,27 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 2
-Width: 326
+Width: 331
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 516 20G<87 249> 629 198<107.588 228.412>
-VStem: 69 198<667.588 788.412> 87 162<-56.0247 536>
+Flags: W
+HStem: 516 20G<92 254> 629 198<112.588 233.412>
+VStem: 74 198<667.588 788.412> 92 162<-56.0247 536>
 LayerCount: 2
 Fore
 SplineSet
-87 536 m 1
- 249 536 l 1
- 249 41 l 2
- 249 -302 -42 -192 -45 -191 c 2
- -24 -61 l 1
- 99 -105 87 -19 87 53 c 2
- 87 536 l 1
-69 728 m 0
- 69 781 115 827 168 827 c 0
- 221 827 267 781 267 728 c 0
- 267 675 221 629 168 629 c 0
- 115 629 69 675 69 728 c 0
+74 728 m 0xe0
+ 74 781 120 827 173 827 c 0
+ 226 827 272 781 272 728 c 0
+ 272 675 226 629 173 629 c 0
+ 120 629 74 675 74 728 c 0xe0
+92 536 m 1xd0
+ 254 536 l 1
+ 254 41 l 6
+ 254 -302 -37 -192 -40 -191 c 6
+ -19 -61 l 5
+ 104 -105 92 -19 92 53 c 6
+ 92 536 l 1xd0
 EndSplineSet
 EndChar
 
@@ -440,26 +440,26 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 12
-Width: 525
+Width: 530
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 23G<86 246> 424 118<296 454>
-VStem: 86 161<0 367>
+Flags: W
+HStem: 0 21G<85 246> 424 117<297.835 449.889>
+VStem: 85 161<0 363.251>
 LayerCount: 2
 Fore
 SplineSet
-371 541 m 0
+371 541 m 4
  444 541 495 517 520 499 c 1
  471 389 l 1
- 448 404 419 424 361 424 c 0
+ 448 404 419 424 361 424 c 4
  301 424 246 378 246 244 c 2
  246 0 l 1
  85 0 l 1
  85 536 l 1
  234 536 l 1
  246 446 l 1
- 274 502 299 541 371 541 c 0
+ 274 502 299 541 371 541 c 4
 EndSplineSet
 EndChar
 
@@ -605,7 +605,7 @@ Encoding: 102 102 18
 Width: 423
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
+Flags: HWO
 HStem: -1 23G<94.1 256.9> 427 109<6.1 94.1 256.9 390>
 VStem: 94 163<-1.1 426.8 535.7 638.759>
 LayerCount: 2
@@ -621,7 +621,7 @@ SplineSet
  240 -193 l 1
  77 -204 l 1
  99 427 l 1
- 11 427 l 1
+ 15 427 l 5
  15 536 l 1
  103 536 l 1
  108 675 169 785 311 785 c 0
