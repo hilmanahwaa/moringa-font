@@ -1,6 +1,6 @@
 StartChar: x
 Encoding: 120 120 26
-Width: 670
+Width: 690
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -8,18 +8,18 @@ HStem: 0 21G<21 210.251 419.749 610> 516 20G<21 210.337 419.663 610>
 LayerCount: 2
 Fore
 SplineSet
-335 385 m 1
- 424 536 l 5
- 650 536 l 1
- 457 277 l 1
- 650 0 l 1
- 434 0 l 1
- 335 172 l 1
+345 385 m 1
+ 434 536 l 1
+ 660 536 l 1
+ 477 277 l 1
+ 670 0 l 1
+ 454 0 l 1
+ 345 172 l 1
  236 0 l 1
  21 0 l 1
  215 277 l 1
- 21 536 l 1
- 246 536 l 1
- 335 385 l 1
+ 31 536 l 1
+ 256 536 l 1
+ 345 385 l 1
 EndSplineSet
 EndChar
