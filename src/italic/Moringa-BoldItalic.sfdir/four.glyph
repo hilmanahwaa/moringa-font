@@ -3,13 +3,13 @@ Encoding: 52 52 58
 Width: 676
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<389 542> 170 109<219 389 542 618> 698 20G<353.177 542>
 VStem: 389 153<0 170 280 544>
 LayerCount: 2
 Fore
 SplineSet
-367 718 m 1
+347 718 m 5
  542 718 l 1
  542 280 l 1
  630 280 l 1
@@ -20,11 +20,11 @@ SplineSet
  389 170 l 1
  47 170 l 1
  47 255 l 1
- 367 718 l 1
-389 554 m 5
+ 347 718 l 5
+389 554 m 1
  219 279 l 1
  389 279 l 1
- 389 554 l 5
+ 389 554 l 1
 EndSplineSet
 Substitution2: "CharVar02-1" four.cv02
 Substitution2: "TabularFigures-1" four.tnum
