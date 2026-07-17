@@ -1,0 +1,18 @@
+StartChar: underscore
+Encoding: 95 95 94
+Width: 468
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -75 53<0 457.6>
+LayerCount: 2
+Fore
+SplineSet
+0 -75 m 1
+ 0 -22 l 1
+ 458 -22 l 1
+ 458 -75 l 1
+ 0 -75 l 1
+EndSplineSet
+Validated: 1
+EndChar

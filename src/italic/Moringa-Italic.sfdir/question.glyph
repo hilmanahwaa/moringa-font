@@ -1,0 +1,28 @@
+StartChar: question
+Encoding: 63 63 69
+Width: 532
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 113<188 286> 664 72<160 354>
+VStem: 188 98<0 113 207 317> 400 87<479 620>
+LayerCount: 2
+Fore
+SplineSet
+286 0 m 1
+ 188 0 l 1
+ 188 113 l 1
+ 286 113 l 1
+ 286 0 l 1
+271 736 m 0
+ 423 736 487 649 487 548 c 0
+ 487 368 280 429 280 207 c 1
+ 192 207 l 1
+ 192 458 400 403 400 548 c 0
+ 400 614 357 664 263 664 c 0
+ 184 664 127 629 87 572 c 1
+ 30 620 l 1
+ 83 690 162 736 271 736 c 0
+EndSplineSet
+Validated: 1
+EndChar

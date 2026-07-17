@@ -1,0 +1,19 @@
+StartChar: period
+Encoding: 46 46 54
+Width: 245
+VWidth: 1007
+GlyphClass: 2
+Flags: HW
+HStem: 1 100<72.6 172.7>
+VStem: 73 100<1.1 101.2>
+LayerCount: 2
+Fore
+SplineSet
+73 101 m 1
+ 173 101 l 1
+ 173 1 l 1
+ 73 1 l 1
+ 73 101 l 1
+EndSplineSet
+Validated: 1
+EndChar

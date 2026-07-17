@@ -1,0 +1,24 @@
+StartChar: semicolon
+Encoding: 59 59 68
+Width: 256
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 111<73 120.496> 431 111<73 184>
+VStem: 73 111<0 111 431 542>
+LayerCount: 2
+Fore
+SplineSet
+83 111 m 5
+ 184 111 l 5
+ 90 -161 l 5
+ 38 -161 l 5
+ 83 111 l 5
+73 542 m 1
+ 184 542 l 1
+ 184 431 l 1
+ 73 431 l 1
+ 73 542 l 1
+EndSplineSet
+Validated: 1
+EndChar

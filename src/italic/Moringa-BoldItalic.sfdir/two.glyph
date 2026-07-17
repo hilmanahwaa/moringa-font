@@ -1,0 +1,26 @@
+StartChar: two
+Encoding: 50 50 64
+Width: 637
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 113<239.3 586.9> 605 119<229.622 385.758>
+VStem: 427 160<408.333 559.231>
+LayerCount: 2
+Fore
+SplineSet
+327 724 m 0
+ 494 724 587 613 587 494 c 2
+ 587 494 587 494 587 493 c 0
+ 585 272 261 198 239 113 c 1
+ 587 113 l 1
+ 587 0 l 1
+ 47 0 l 1
+ 47 310 427 274 427 484 c 0
+ 427 552 387 605 306 605 c 0
+ 249 605 219 579 174 522 c 1
+ 62 585 l 1
+ 106 660 202 724 327 724 c 0
+EndSplineSet
+Substitution2: "TabularFigures-1" two.tnum
+EndChar

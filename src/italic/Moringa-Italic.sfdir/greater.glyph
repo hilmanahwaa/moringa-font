@@ -1,0 +1,22 @@
+StartChar: greater
+Encoding: 62 62 80
+Width: 623
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+110 508 m 1
+ 552 295 l 1
+ 552 293 l 1
+ 552 232 l 1
+ 552 230 l 1
+ 110 16 l 1
+ 73 77 l 1
+ 466 263 l 1
+ 73 448 l 1
+ 110 508 l 1
+EndSplineSet
+Validated: 1
+EndChar

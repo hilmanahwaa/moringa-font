@@ -1,0 +1,22 @@
+StartChar: asciitilde
+Encoding: 126 126 92
+Width: 713
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 262 101<418.207 528.326> 361 101<186.904 292.871>
+LayerCount: 2
+Fore
+SplineSet
+561 476 m 1x80
+ 653 444 l 1
+ 653 444 619 262 481 262 c 6
+ 480 262 l 2x80
+ 371 263 293 341 235 341 c 4
+ 172 341 153 246 153 246 c 1
+ 60 279 l 1
+ 60 279 97 462 252 462 c 4x40
+ 344 462 413 383 477 383 c 0
+ 546 383 561 476 561 476 c 1x80
+EndSplineSet
+EndChar

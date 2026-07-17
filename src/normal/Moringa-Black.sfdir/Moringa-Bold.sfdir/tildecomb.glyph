@@ -1,0 +1,22 @@
+StartChar: tildecomb
+Encoding: 771 771 142
+Width: 350
+VWidth: 1114
+Flags: HW
+HStem: 604 72<193.294 285.8> 654 73<68.4557 160.329> 699 20G<294 350>
+AnchorPoint: "top_accent" 174 498 mark 0
+LayerCount: 2
+Fore
+SplineSet
+294 719 m 5xa0
+ 350 703 l 1
+ 350 703 323 604 249 604 c 2
+ 248 604 l 2xa0
+ 174 604 148 654 113 654 c 0
+ 66 654 56 608 56 608 c 1
+ 0 628 l 1
+ 0 628 29 727 109 727 c 0x40
+ 177 727 205 676 244 676 c 4
+ 288 676 294 719 294 719 c 5xa0
+EndSplineSet
+EndChar

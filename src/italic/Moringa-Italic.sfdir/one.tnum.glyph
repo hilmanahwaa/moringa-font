@@ -1,0 +1,25 @@
+StartChar: one.tnum
+Encoding: 261 -1 133
+Width: 579
+VWidth: 1114
+Flags: W
+HStem: 0 66<69 249 336 515> 698 20G<208.31 336>
+VStem: 249 87<66 637>
+LayerCount: 2
+Fore
+SplineSet
+249 718 m 1
+ 336 718 l 1
+ 336 76 l 5
+ 515 76 l 5
+ 515 0 l 1
+ 69 0 l 1
+ 69 76 l 5
+ 249 76 l 5
+ 249 637 l 1
+ 75 556 l 1
+ 72 556 l 1
+ 72 631 l 1
+ 249 718 l 1
+EndSplineSet
+EndChar

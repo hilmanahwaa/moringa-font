@@ -1,0 +1,23 @@
+StartChar: colon
+Encoding: 58 58 66
+Width: 279
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 135<60.5 218.9> 407 135<60.5 218.9>
+VStem: 61 158<0 135.3 407 542.3>
+LayerCount: 2
+Fore
+SplineSet
+60 135 m 1
+ 219 135 l 1
+ 219 0 l 1
+ 60 0 l 1
+ 60 135 l 1
+60 542 m 1
+ 219 542 l 1
+ 219 407 l 1
+ 60 407 l 1
+ 60 542 l 1
+EndSplineSet
+EndChar

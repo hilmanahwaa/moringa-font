@@ -1,0 +1,24 @@
+StartChar: N
+Encoding: 78 78 36
+Width: 801
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<85 247 531.392 716> 716 20G<85 281.585 555 716>
+VStem: 85 162<0 510> 555 161<244 736>
+LayerCount: 2
+Fore
+SplineSet
+85 736 m 1
+ 270 736 l 1
+ 555 244 l 1
+ 555 736 l 1
+ 716 736 l 1
+ 716 0 l 1
+ 543 0 l 1
+ 247 510 l 1
+ 247 0 l 1
+ 85 0 l 1
+ 85 736 l 1
+EndSplineSet
+EndChar

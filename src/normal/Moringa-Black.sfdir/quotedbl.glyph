@@ -1,0 +1,23 @@
+StartChar: quotedbl
+Encoding: 34 34 71
+Width: 453
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 544 245<65 143 220 298>
+VStem: 36 107<728.443 789> 65 78<544 604.557> 220 107<728.443 789> 220 78<544 604.557>
+LayerCount: 2
+Fore
+SplineSet
+270 789 m 1x90
+ 417 789 l 1x90
+ 378 524 l 1
+ 270 524 l 1x88
+ 270 789 l 1x90
+36 789 m 1xc0
+ 183 789 l 1xc0
+ 183 524 l 1
+ 75 524 l 1xa0
+ 36 789 l 1xc0
+EndSplineSet
+EndChar

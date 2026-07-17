@@ -1,0 +1,17 @@
+StartChar: comma
+Encoding: 44 44 55
+Width: 260
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+VStem: 61 160<0 135.3>
+LayerCount: 2
+Fore
+SplineSet
+80 135 m 5
+ 221 135 l 1
+ 126 -161 l 1
+ 30 -161 l 1
+ 80 135 l 5
+EndSplineSet
+EndChar

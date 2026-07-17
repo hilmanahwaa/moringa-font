@@ -1,0 +1,17 @@
+StartChar: underscore
+Encoding: 95 95 94
+Width: 577
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -87 65<60 518>
+LayerCount: 2
+Fore
+SplineSet
+60 -97 m 5
+ 60 -22 l 1
+ 518 -22 l 1
+ 518 -97 l 5
+ 60 -97 l 5
+EndSplineSet
+EndChar

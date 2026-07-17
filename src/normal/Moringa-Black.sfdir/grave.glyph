@@ -1,0 +1,18 @@
+StartChar: grave
+Encoding: 96 96 76
+Width: 378
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 554 235
+VStem: 60 229
+LayerCount: 2
+Fore
+SplineSet
+60 789 m 1
+ 239 789 l 1
+ 319 579 l 1
+ 228 534 l 5
+ 60 789 l 1
+EndSplineSet
+EndChar

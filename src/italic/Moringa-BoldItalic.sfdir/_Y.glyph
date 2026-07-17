@@ -1,0 +1,24 @@
+StartChar: Y
+Encoding: 89 89 52
+Width: 664
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 23G<251.4 414.2> 714 22G<17.1 199.561 465.015 647.4>
+VStem: 251 163<0 288.2>
+AnchorPoint: "top_accent" 334 736 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+17 736 m 1
+ 190 736 l 1
+ 333 414 l 1
+ 475 736 l 1
+ 647 736 l 1
+ 414 288 l 1
+ 414 0 l 1
+ 251 0 l 1
+ 251 288 l 1
+ 17 736 l 1
+EndSplineSet
+EndChar

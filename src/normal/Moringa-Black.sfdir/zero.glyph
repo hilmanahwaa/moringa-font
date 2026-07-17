@@ -1,0 +1,24 @@
+StartChar: zero
+Encoding: 48 48 63
+Width: 685
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -4 113<275.835 380.394> 609 115<267.833 376.788>
+VStem: 47 160<210.299 523.562> 439 160<191.013 520.229>
+LayerCount: 2
+Fore
+SplineSet
+343 724 m 4
+ 532 724 639 603 639 360 c 0
+ 639 131 545 -4 351 -4 c 4
+ 154 -4 47 126 47 360 c 0
+ 47 594 154 724 343 724 c 4
+343 584 m 4
+ 264 584 247 484 247 360 c 0
+ 247 213 269 133 349 133 c 4
+ 430 133 439 227 439 360 c 0
+ 439 496 429 584 343 584 c 4
+EndSplineSet
+Substitution2: "TabularFigures-1" zero.tnum
+EndChar

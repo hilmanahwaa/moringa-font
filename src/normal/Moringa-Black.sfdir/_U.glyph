@@ -1,0 +1,24 @@
+StartChar: U
+Encoding: 85 85 44
+Width: 779
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -4 124<288.858 450.976> 716 20G<65 227 512 674>
+VStem: 65 162<196.594 736> 512 162<188.966 736>
+LayerCount: 2
+Fore
+SplineSet
+65 736 m 1
+ 267 736 l 1
+ 267 343 l 2
+ 267 207 284 144 390 144 c 0
+ 496 144 512 207 512 343 c 2
+ 512 736 l 1
+ 714 736 l 1
+ 714 305 l 2
+ 714 67 546 -14 390 -14 c 4
+ 234 -14 65 67 65 305 c 2
+ 65 736 l 1
+EndSplineSet
+EndChar

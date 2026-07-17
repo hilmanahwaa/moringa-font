@@ -1,0 +1,27 @@
+StartChar: E
+Encoding: 69 69 29
+Width: 717
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 120<247 647> 313 121<247 589> 616 120<247 647>
+VStem: 85 162<120 313 434 616>
+AnchorPoint: "top_accent" 401 736 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+85 736 m 1
+ 667 736 l 1
+ 667 596 l 1
+ 287 596 l 1
+ 287 444 l 1
+ 609 444 l 1
+ 609 303 l 5
+ 287 303 l 5
+ 287 140 l 1
+ 667 140 l 1
+ 667 0 l 1
+ 85 0 l 1
+ 85 736 l 1
+EndSplineSet
+EndChar

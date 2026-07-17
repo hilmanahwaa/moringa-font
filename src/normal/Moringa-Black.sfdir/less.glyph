@@ -1,0 +1,21 @@
+StartChar: less
+Encoding: 60 60 81
+Width: 692
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+593 41 m 1
+ 60 254 l 1
+ 60 256 l 1
+ 60 317 l 1
+ 60 319 l 1
+ 593 532 l 1
+ 633 438 l 1
+ 271 287 l 1
+ 633 135 l 5
+ 593 41 l 1
+EndSplineSet
+EndChar

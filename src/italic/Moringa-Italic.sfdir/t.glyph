@@ -1,0 +1,26 @@
+StartChar: t
+Encoding: 116 116 8
+Width: 376
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 23G<130.6 220.8> 468 68<26.1 130.6 220.8 360.5>
+VStem: 131 90<0 467.5 535.7 688.6>
+LayerCount: 2
+Fore
+SplineSet
+131 0 m 1
+ 131 468 l 1
+ 26 468 l 1
+ 26 536 l 1
+ 131 536 l 1
+ 131 689 l 1
+ 221 689 l 1
+ 221 536 l 1
+ 361 536 l 1
+ 361 468 l 1
+ 221 468 l 1
+ 221 0 l 1
+ 131 0 l 1
+EndSplineSet
+EndChar

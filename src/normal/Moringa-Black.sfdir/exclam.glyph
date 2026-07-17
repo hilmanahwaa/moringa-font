@@ -1,0 +1,23 @@
+StartChar: exclam
+Encoding: 33 33 60
+Width: 324
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 125<82 205>
+VStem: 82 123<0 125> 90 107<231 357.874>
+LayerCount: 2
+Fore
+SplineSet
+243 0 m 1xc0
+ 82 0 l 1
+ 82 165 l 1
+ 243 165 l 1
+ 243 0 l 1xc0
+235 261 m 5xa0
+ 90 261 l 5
+ 60 762 l 1
+ 265 762 l 1
+ 235 261 l 5xa0
+EndSplineSet
+EndChar

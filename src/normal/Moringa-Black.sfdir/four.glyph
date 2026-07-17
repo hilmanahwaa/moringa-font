@@ -1,0 +1,30 @@
+StartChar: four
+Encoding: 52 52 58
+Width: 706
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<389 542> 170 109<219 389 542 618> 698 20G<353.177 542>
+VStem: 389 153<0 170 280 544>
+LayerCount: 2
+Fore
+SplineSet
+297 718 m 5
+ 562 718 l 1
+ 562 294 l 1
+ 660 294 l 1
+ 648 162 l 1
+ 562 162 l 1
+ 562 0 l 1
+ 379 0 l 1
+ 379 160 l 1
+ 47 160 l 1
+ 47 255 l 1
+ 297 718 l 5
+379 574 m 1
+ 239 293 l 1
+ 379 293 l 1
+ 379 574 l 1
+EndSplineSet
+Substitution2: "TabularFigures-1" four.tnum
+EndChar

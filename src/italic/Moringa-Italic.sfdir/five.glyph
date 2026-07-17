@@ -1,0 +1,29 @@
+StartChar: five
+Encoding: 53 53 59
+Width: 588
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -4 69<188.884 356.838> 371 69<173 356.596> 653 65<191 488>
+VStem: 437 87<144.718 291.727>
+LayerCount: 2
+Fore
+SplineSet
+107 718 m 5
+ 488 718 l 1
+ 488 649 l 1
+ 181 649 l 1
+ 173 440 l 1
+ 288 440 l 2
+ 410 440 524 360 524 226 c 0
+ 524 109 441 -4 277 -4 c 0
+ 235 -4 115 3 55 109 c 1
+ 123 146 l 1
+ 151 96 220 65 277 65 c 0
+ 368 65 437 131 437 217 c 0
+ 437 294 393 371 266 371 c 2
+ 83 371 l 1
+ 107 718 l 5
+EndSplineSet
+Substitution2: "TabularFigures-1" five.tnum
+EndChar

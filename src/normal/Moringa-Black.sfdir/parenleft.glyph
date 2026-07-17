@@ -1,0 +1,20 @@
+StartChar: parenleft
+Encoding: 40 40 35
+Width: 405
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 760 20G<271.5 347.254>
+VStem: 73 127<79.119 446.881>
+LayerCount: 2
+Fore
+SplineSet
+240 263 m 0
+ 240 62 274 -119 385 -181 c 5
+ 349 -254 l 1
+ 214 -224 73 -53 73 263 c 0
+ 73 579 214 750 349 780 c 1
+ 385 707 l 5
+ 274 645 240 464 240 263 c 0
+EndSplineSet
+EndChar

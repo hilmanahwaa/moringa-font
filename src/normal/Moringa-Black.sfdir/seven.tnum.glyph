@@ -1,0 +1,19 @@
+StartChar: seven.tnum
+Encoding: 65543 -1 139
+Width: 706
+VWidth: 1114
+Flags: HW
+HStem: 0 21G<105 281.587> 609 109<70 410>
+LayerCount: 2
+Fore
+SplineSet
+75 718 m 5
+ 650 718 l 5
+ 650 653 l 5
+ 337 0 l 5
+ 130 0 l 5
+ 425 585 l 5
+ 75 585 l 5
+ 75 718 l 5
+EndSplineSet
+EndChar

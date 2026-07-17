@@ -1,0 +1,12 @@
+StartChar: Oacute
+Encoding: 211 211 109
+Width: 805
+VWidth: 1126
+Flags: HW
+HStem: -4 114<317.148 487.08> 626 115<317.148 487.08> 846 147
+VStem: 47 162<239.555 494.838> 291 236 597 162<239.555 494.838>
+LayerCount: 2
+Fore
+Refer: 96 769 N 1 0 0 1 288 243 2
+Refer: 49 79 N 1 0 0 1 0 0 3
+EndChar

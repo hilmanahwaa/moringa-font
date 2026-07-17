@@ -1,0 +1,17 @@
+StartChar: bar
+Encoding: 124 124 86
+Width: 209
+VWidth: 1114
+GlyphClass: 2
+Flags: W
+VStem: 73 63<-213 789>
+LayerCount: 2
+Fore
+SplineSet
+73 -250 m 5
+ 73 774 l 1
+ 136 774 l 1
+ 136 -250 l 5
+ 73 -250 l 5
+EndSplineSet
+EndChar

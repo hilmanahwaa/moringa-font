@@ -11,11 +11,19 @@ unifontobj : Moringa-Regular.ufo    Moringa-Italic.ufo    Moringa-Bold.ufo    Mo
 
 svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Moringa-BoldItalic.svg    Moringa-Black.svg
 
+sfdir      : Moringa-Regular.sfdir  Moringa-Italic.sfdir  Moringa-Bold.sfdir  Moringa-BoldItalic.sfdir  Moringa-Black.sfdir
+
 %.ttf %.woff %.woff2 %.ufo %.svg: src/normal/%.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
 %Italic.ttf %Italic.woff %Italic.woff2 %Italic.ufo %Italic.svg: src/italic/%Italic.sfd dist/
 	fontforge -lang=ff -c 'Open($$1); SelectGlyphsSplines(); Skew(8, 0, 0); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
+
+%.sfdir: src/normal/%.sfd dist/
+	fontforge -lang=ff -c 'Open($$1); Save($$2)' $< dist/$@
+
+%Italic.sfdir: src/italic/%Italic.sfd dist/
+	fontforge -lang=ff -c 'Open($$1); Save($$2)' $< dist/$@
 
 all: truetype webfonts unifontobj
 

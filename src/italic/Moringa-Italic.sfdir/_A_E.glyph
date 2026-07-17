@@ -1,0 +1,33 @@
+StartChar: AE
+Encoding: 198 198 164
+Width: 965
+VWidth: 1114
+Flags: HW
+AnchorPoint: "top_accent" 716 736 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+352.69921875 736.3046875 m 1
+ 903 736 l 1
+ 903 659 l 1
+ 529 659 l 1
+ 529 418 l 1
+ 859 418 l 1
+ 859 341 l 1
+ 529 341 l 1
+ 529 76 l 1
+ 903 76 l 1
+ 903 0 l 1
+ 440 0 l 1
+ 440 234 l 1
+ 220 234 l 1
+ 113 0 l 1
+ 18 0 l 1
+ 352.69921875 736.3046875 l 1
+440 659 m 1
+ 410 659 l 1
+ 242 300 l 1
+ 440 300 l 1
+ 440 659 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,25 @@
+StartChar: o
+Encoding: 111 111 7
+Width: 563
+VWidth: 1114
+GlyphClass: 2
+Flags: W
+HStem: -4 70<206.004 356.122> 469 72<208.906 353.22>
+VStem: 47 90<149.037 385.345> 426 89<149.037 385.345>
+AnchorPoint: "top_accent" 281 541 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+281 469 m 4
+ 195 469 137 400 137 267 c 4
+ 137 134 195 66 281 66 c 4
+ 367 66 426 134 426 267 c 4
+ 426 400 367 469 281 469 c 4
+47 267 m 4
+ 47 446 136 541 281 541 c 4
+ 426 541 515 446 515 267 c 4
+ 515 88 426 -4 281 -4 c 4
+ 136 -4 47 88 47 267 c 4
+EndSplineSet
+Validated: 1
+EndChar

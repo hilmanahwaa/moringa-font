@@ -1,0 +1,22 @@
+StartChar: equal
+Encoding: 61 61 79
+Width: 647
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 130 103<60 588> 340 104<60 588>
+LayerCount: 2
+Fore
+SplineSet
+588 130 m 1
+ 60 130 l 1
+ 60 233 l 1
+ 588 233 l 1
+ 588 130 l 1
+588 340 m 1
+ 60 340 l 1
+ 60 444 l 1
+ 588 444 l 1
+ 588 340 l 1
+EndSplineSet
+EndChar

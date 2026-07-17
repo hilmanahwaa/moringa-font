@@ -1,0 +1,28 @@
+StartChar: four.tnum.cv02
+Encoding: 65548 -1 167
+Width: 635
+VWidth: 1114
+Flags: W
+HStem: 0 21G<367 520> 170 109<197 367 520 596> 698 20G<331.177 520>
+VStem: 367 153<0 170 280 544>
+LayerCount: 2
+Fore
+SplineSet
+520 412 m 1
+ 520 280 l 1
+ 608 280 l 1
+ 596 172 l 1
+ 520 172 l 1
+ 520 0 l 1
+ 367 0 l 1
+ 367 170 l 1
+ 25 170 l 1
+ 25 255 l 1
+ 305 718 l 1
+ 450 718 l 5
+ 197 279 l 1
+ 367 279 l 1
+ 367 402 l 1
+ 520 412 l 1
+EndSplineSet
+EndChar

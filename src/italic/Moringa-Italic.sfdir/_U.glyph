@@ -1,0 +1,26 @@
+StartChar: U
+Encoding: 85 85 44
+Width: 666
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: -4 70<236.387 431.184> 714 22G<65.5 154.6 512.1 601.2>
+VStem: 66 89<156.024 735.9> 512 89<156.024 735.9>
+AnchorPoint: "top_accent" 335 736 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+65 736 m 1
+ 155 736 l 1
+ 155 278 l 2
+ 155 122 228 66 334 66 c 0
+ 440 66 512 122 512 278 c 2
+ 512 736 l 1
+ 601 736 l 1
+ 601 278 l 2
+ 601 77 490 -4 334 -4 c 0
+ 178 -4 65 77 65 278 c 2
+ 65 736 l 1
+EndSplineSet
+Validated: 1
+EndChar

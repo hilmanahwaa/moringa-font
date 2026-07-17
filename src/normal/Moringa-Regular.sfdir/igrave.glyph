@@ -1,0 +1,12 @@
+StartChar: igrave
+Encoding: 236 236 113
+Width: 262
+VWidth: 1126
+Flags: HW
+HStem: 0 21G<87 177> 516 20G<87 177> 641 147
+VStem: -20 214 87 90<0 536>
+LayerCount: 2
+Fore
+Refer: 97 768 N 1 0 0 1 -23 38 2
+Refer: 98 305 N 1 0 0 1 0 0 3
+EndChar

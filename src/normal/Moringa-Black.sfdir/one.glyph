@@ -1,0 +1,23 @@
+StartChar: one
+Encoding: 49 49 61
+Width: 509
+VWidth: 1114
+GlyphClass: 2
+Flags: HW
+HStem: 0 21G<229 389> 698 20G<188.31 389>
+VStem: 229 160<0 593>
+LayerCount: 2
+Fore
+SplineSet
+229 718 m 1
+ 429 718 l 5
+ 429 0 l 5
+ 229 0 l 1
+ 229 569 l 1
+ 56 488 l 1
+ 52 488 l 1
+ 52 631 l 1
+ 229 718 l 1
+EndSplineSet
+Substitution2: "TabularFigures-1" one.tnum
+EndChar
