@@ -13,10 +13,10 @@ svg        : Moringa-Regular.svg    Moringa-Italic.svg    Moringa-Bold.svg    Mo
 
 sfdir      : Moringa-Regular.sfdir  Moringa-Italic.sfdir  Moringa-Bold.sfdir  Moringa-BoldItalic.sfdir  Moringa-Black.sfdir
 
-%.ttf %.woff %.woff2 %.ufo %.svg: src/normal/%.sfd dist/
+%.ttf %.woff %.woff2 %.ufo %.svg: src/normal/%.sfdir dist/
 	fontforge -lang=ff -c 'Open($$1); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
-%Italic.ttf %Italic.woff %Italic.woff2 %Italic.ufo %Italic.svg: src/italic/%Italic.sfd dist/
+%Italic.ttf %Italic.woff %Italic.woff2 %Italic.ufo %Italic.svg: src/italic/%Italic.sfdir dist/
 	fontforge -lang=ff -c 'Open($$1); SelectGlyphsSplines(); Skew(8, 0, 0); SelectAll(); AutoHint(); AutoInstr(); RoundToInt(); Generate($$2)' $< dist/$@
 
 %.sfdir: src/normal/%.sfd dist/
