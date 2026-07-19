@@ -1,25 +1,24 @@
 StartChar: N
 Encoding: 78 78 36
-Width: 725
+Width: 745
 VWidth: 1114
 GlyphClass: 2
-Flags: W
-HStem: 0 21G<84 173 528.875 642> 716 20G<84 208.122 553 642>
-VStem: 84 89<0 607> 553 89<147 736>
+Flags: HW
+HStem: 0 21G<94 183 538.875 652> 716 20G<94 218.122 563 652>
+VStem: 94 89<0 607> 563 89<147 736>
 LayerCount: 2
 Fore
 SplineSet
-84 736 m 1
- 196 736 l 1
- 553 147 l 1
- 553 736 l 1
- 642 736 l 1
- 642 0 l 1
- 541 0 l 1
- 173 607 l 1
- 173 0 l 1
- 84 0 l 1
- 84 736 l 1
+94 736 m 1
+ 206 736 l 1
+ 563 147 l 1
+ 563 736 l 1
+ 652 736 l 1
+ 652 0 l 1
+ 551 0 l 1
+ 183 607 l 1
+ 183 0 l 1
+ 94 0 l 1
+ 94 736 l 1
 EndSplineSet
-Validated: 1
 EndChar

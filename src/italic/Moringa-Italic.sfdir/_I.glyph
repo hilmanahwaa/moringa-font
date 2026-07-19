@@ -1,20 +1,19 @@
 StartChar: I
 Encoding: 73 73 19
-Width: 280
+Width: 300
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<95 185> 716 20G<95 185>
-VStem: 95 90<0 736>
-AnchorPoint: "top_accent" 141 736 basechar 0
+HStem: 0 21G<105 195> 716 20G<105 195>
+VStem: 105 90<0 736>
+AnchorPoint: "top_accent" 151 736 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-95 0 m 1
- 95 736 l 1
- 185 736 l 1
- 185 0 l 1
- 95 0 l 1
+105 0 m 1
+ 105 736 l 1
+ 195 736 l 1
+ 195 0 l 1
+ 105 0 l 1
 EndSplineSet
-Validated: 1
 EndChar

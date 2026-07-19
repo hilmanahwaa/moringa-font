@@ -1,22 +1,22 @@
 StartChar: T
 Encoding: 84 84 28
-Width: 639
+Width: 605
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
-HStem: 0 21G<239 401> 609 127<27 239 401 612>
-VStem: 239 162<0 609>
+HStem: 0 21G<222 384> 609 127<10 222 384 595>
+VStem: 222 162<0 609>
 LayerCount: 2
 Fore
 SplineSet
-27 736 m 1
- 612 736 l 1
- 612 609 l 5
- 401 609 l 5
- 401 0 l 1
- 239 0 l 1
- 239 609 l 5
- 27 609 l 5
- 27 736 l 1
+10 736 m 1
+ 595 736 l 1
+ 595 609 l 5
+ 384 609 l 5
+ 384 0 l 1
+ 222 0 l 1
+ 222 609 l 5
+ 10 609 l 5
+ 10 736 l 1
 EndSplineSet
 EndChar

@@ -7,13 +7,13 @@ HStem: 0 21G<111 286.617> 609 109<54 416>
 LayerCount: 2
 Fore
 SplineSet
-54 718 m 5
+54 718 m 1
  591 718 l 1
  591 653 l 1
  277 0 l 1
  111 0 l 1
- 416 609 l 1
- 54 609 l 5
- 54 718 l 5
+ 406 599 l 5
+ 54 599 l 1
+ 54 718 l 1
 EndSplineSet
 EndChar

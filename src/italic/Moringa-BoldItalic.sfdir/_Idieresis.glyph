@@ -1,9 +1,9 @@
 StartChar: Idieresis
 Encoding: 207 207 149
-Width: 332
+Width: 344
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 143 776 N 1 0 0 1 19 207 2
+Refer: 143 776 N 1 0 0 1 25 207 2
 Refer: 19 73 N 1 0 0 1 0 0 3
 EndChar

@@ -1,24 +1,24 @@
 StartChar: Y
 Encoding: 89 89 52
-Width: 628
+Width: 557
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<270 359> 716 20G<36 146.719 481.401 593>
-VStem: 270 89<0 312>
+HStem: 0 21G<234 323> 716 20G<0 110.719 445.401 557>
+VStem: 234 89<0 312>
+AnchorPoint: "bottom_accent" 279 736 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-36 736 m 1
- 136 736 l 1
- 315 402 l 1
- 492 736 l 1
- 593 736 l 1
- 359 312 l 1
- 359 0 l 1
- 270 0 l 1
- 270 312 l 1
- 36 736 l 1
+0 736 m 1
+ 100 736 l 1
+ 279 402 l 1
+ 456 736 l 1
+ 557 736 l 1
+ 323 312 l 1
+ 323 0 l 1
+ 234 0 l 1
+ 234 312 l 1
+ 0 736 l 1
 EndSplineSet
-Validated: 1
 EndChar

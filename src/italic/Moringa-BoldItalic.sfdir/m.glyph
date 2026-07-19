@@ -1,6 +1,6 @@
 StartChar: m
 Encoding: 109 109 25
-Width: 1038
+Width: 1043
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -27,8 +27,8 @@ SplineSet
  85 536 l 1
  235 536 l 1
  247 458 l 1
- 275 502 319 541 404 541 c 4
- 493 541 545 504 582 439 c 5
+ 275 502 319 541 404 541 c 0
+ 493 541 545 504 582 439 c 1
  607 483 674 541 778 541 c 0
 EndSplineSet
 EndChar

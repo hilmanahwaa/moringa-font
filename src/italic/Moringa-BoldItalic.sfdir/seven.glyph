@@ -3,8 +3,8 @@ Encoding: 55 55 62
 Width: 584
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 23G<64.4 241.056> 609 109<29.2 369.1>
+Flags: W
+HStem: 0 21G<64 240.587> 609 109<29 369>
 LayerCount: 2
 Fore
 SplineSet
@@ -13,8 +13,8 @@ SplineSet
  544 653 l 1
  231 0 l 1
  64 0 l 1
- 369 609 l 1
- 29 609 l 1
+ 359 599 l 5
+ 29 599 l 1
  29 718 l 1
 EndSplineSet
 Substitution2: "TabularFigures-1" seven.tnum
