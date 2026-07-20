@@ -2,7 +2,7 @@ StartChar: two.tnum
 Encoding: 262 -1 134
 Width: 579
 VWidth: 1114
-Flags: HW
+Flags: W
 HStem: 0 70<158 518> 653 71<203.671 365.296>
 VStem: 430 88<424.512 586.891>
 LayerCount: 2
