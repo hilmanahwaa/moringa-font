@@ -27,14 +27,14 @@ ModificationTime: 1784564028
 PfmFamily: 33
 TTFWeight: 900
 TTFWidth: 5
-LineGap: 92
+LineGap: 128
 VLineGap: 92
 Panose: 2 1 5 3 0 0 0 0 0 0
 OS2TypoAscent: 824
 OS2TypoAOffset: 0
 OS2TypoDescent: -280
 OS2TypoDOffset: 0
-OS2TypoLinegap: 100
+OS2TypoLinegap: 128
 OS2WinAscent: 1047
 OS2WinAOffset: 0
 OS2WinDescent: 284
