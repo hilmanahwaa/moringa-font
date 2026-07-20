@@ -23,22 +23,22 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1784419055
+ModificationTime: 1784460608
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 92
 VLineGap: 92
 Panose: 2 1 5 3 0 0 0 0 0 0
-OS2TypoAscent: 824
-OS2TypoAOffset: 0
-OS2TypoDescent: -280
-OS2TypoDOffset: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
 OS2TypoLinegap: 100
-OS2WinAscent: 1047
-OS2WinAOffset: 0
-OS2WinDescent: 284
-OS2WinDOffset: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
 HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
@@ -108,7 +108,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 19 8
+WinInfo: 65417 19 7
 BeginPrivate: 0
 EndPrivate
 Grid

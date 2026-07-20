@@ -3,10 +3,10 @@ Encoding: 111 111 7
 Width: 634
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -4 110<254.789 379.532> 429 112<254.789 379.532>
 VStem: 47 163<159.784 374.603> 426 162<159.784 374.603>
-AnchorPoint: "top_accent" 317 541 basechar 0
+AnchorPoint: "top_accent" 317 546 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15,10 +15,10 @@ SplineSet
  210 161 249 106 317 106 c 0
  385 106 426 161 426 267 c 0
  426 373 385 429 317 429 c 0
-47 267 m 0
- 47 446 162 541 317 541 c 0
- 472 541 588 446 588 267 c 0
- 588 88 472 -4 317 -4 c 0
- 162 -4 47 88 47 267 c 0
+47 267 m 4
+ 47 456 162 546 317 546 c 4
+ 472 546 588 456 588 267 c 4
+ 588 78 472 -9 317 -9 c 0
+ 162 -9 47 78 47 267 c 4
 EndSplineSet
 EndChar
