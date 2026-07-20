@@ -3,23 +3,23 @@ Encoding: 69 69 29
 Width: 703
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 110<253 653> 323 111<253 585> 626 110<253 653>
-VStem: 91 162<110 323 434 626>
+Flags: W
+HStem: 0 120<253 653> 313 121<253 595> 616 120<253 653>
+VStem: 91 162<120 313 434 616>
 AnchorPoint: "top_accent" 387 736 basechar 0
 LayerCount: 2
 Fore
 SplineSet
 91 736 m 1
  653 736 l 1
- 653 616 l 1
- 253 616 l 1
+ 653 606 l 1
+ 253 606 l 1
  253 434 l 1
  595 434 l 1
  595 313 l 1
  253 313 l 1
- 253 120 l 1
- 653 120 l 1
+ 253 130 l 5
+ 653 130 l 5
  653 0 l 1
  91 0 l 1
  91 736 l 1

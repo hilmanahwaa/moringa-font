@@ -1,6 +1,6 @@
 StartChar: Z
 Encoding: 90 90 53
-Width: 756
+Width: 726
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -9,14 +9,14 @@ LayerCount: 2
 Fore
 SplineSet
 41 736 m 1
- 715 736 l 1
- 715 599 l 1
- 301 157 l 1
- 715 157 l 1
- 715 0 l 1
+ 685 736 l 1
+ 685 599 l 1
+ 291 157 l 5
+ 685 157 l 1
+ 685 0 l 1
  41 0 l 1
  41 117 l 1
- 457 579 l 1
+ 437 579 l 1
  41 579 l 1
  41 736 l 1
 EndSplineSet
