@@ -3,7 +3,7 @@ Encoding: 111 111 7
 Width: 593
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: -4 70<206.004 356.122> 469 72<208.906 353.22>
 VStem: 47 90<149.037 385.345> 426 89<149.037 385.345>
 AnchorPoint: "top_accent" 296 549 basechar 0

@@ -3,7 +3,7 @@ Encoding: 47 47 74
 Width: 383
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 VStem: 31 323
 LayerCount: 2
 Fore
@@ -14,5 +14,4 @@ SplineSet
  31 -196 l 1
  279 789 l 1
 EndSplineSet
-Validated: 1
 EndChar

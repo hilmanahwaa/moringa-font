@@ -2,7 +2,7 @@ StartChar: four.tnum
 Encoding: 264 -1 136
 Width: 579
 VWidth: 1114
-Flags: W
+Flags: HW
 HStem: 0 21G<367 454> 185 66<113 367 454 542> 698 20G<331.338 454>
 VStem: 367 87<0 185 251 617>
 LayerCount: 2

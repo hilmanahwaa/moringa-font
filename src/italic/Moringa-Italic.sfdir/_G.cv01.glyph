@@ -2,7 +2,7 @@ StartChar: G.cv01
 Encoding: 273 -1 169
 Width: 709
 VWidth: 1114
-Flags: W
+Flags: HW
 HStem: -4 70<289.684 494.106> 323 66<379 555> 669 72<286.584 482.187>
 VStem: 65 88<227.928 506.362> 555 90<113.367 323>
 LayerCount: 2

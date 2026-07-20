@@ -3,7 +3,7 @@ Encoding: 59 59 68
 Width: 256
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 111<73 120.496> 431 111<73 184>
 VStem: 73 111<0 111 431 542>
 LayerCount: 2
