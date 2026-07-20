@@ -16,13 +16,13 @@ Main format is *Splinefont Database*, work done using the FontForge app.
 
 ## Why Named "Moringa"?
 
-Moringa is one of the distinguishing features of MAN Lumajang and the flagship product of the Kopsis Al Barokah (school cooperative) of MAN Lumajang. Moringa is also featured in the daily uniforms of MAN Lumajang.
+Moringa is one of the distinguishing features of MAN Lumajang and also a flagship product of the Kopsis Al Barokah (school cooperative) of MAN Lumajang. Moringa is also featured in the daily uniforms of MAN Lumajang.
 
 ## Download and Use This Font! <small>in your designs</small>
 
-[Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15398472189/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
+[Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15436677467/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
 
-Generated automatically by Gitlab CI, on 17 July 2026
+Generated automatically by Gitlab CI, on 21 July 2026
 
 ## Specimen
 
