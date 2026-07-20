@@ -1,6 +1,6 @@
 StartChar: R
 Encoding: 82 82 32
-Width: 749
+Width: 759
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -21,9 +21,9 @@ SplineSet
  91 0 l 1
  91 736 l 1
 253 607 m 1
- 253 377 l 5
- 385 377 l 6
- 451 377 531 406 531 496 c 4
+ 253 377 l 1
+ 385 377 l 2
+ 451 377 531 406 531 496 c 0
  531 586 451 607 385 607 c 2
  253 607 l 1
 EndSplineSet

@@ -1,26 +1,26 @@
 StartChar: A
 Encoding: 65 65 31
-Width: 768
+Width: 788
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
 HStem: 0 21G<17 197.022 534.086 715> 186 100<276 455> 716 20G<261.179 470.821>
-AnchorPoint: "top_accent" 355 736 basechar 0
+AnchorPoint: "top_accent" 365 736 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-309 266 m 1
- 462 266 l 1
- 386 555 l 1
- 309 266 l 1
-530 0 m 1
- 497 126 l 5
- 275 126 l 1
+310 266 m 1
+ 481 266 l 1
+ 396 555 l 1
+ 310 266 l 1
+550 0 m 1
+ 516 126 l 1
+ 276 126 l 1
  241 0 l 1
  17 0 l 1
- 258 736 l 1
- 512 741 l 1
- 753 5 l 1
- 530 0 l 1
+ 263 736 l 1
+ 527 741 l 5
+ 773 5 l 1
+ 550 0 l 1
 EndSplineSet
 EndChar
