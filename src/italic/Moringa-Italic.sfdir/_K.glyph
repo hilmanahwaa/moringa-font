@@ -3,9 +3,9 @@ Encoding: 75 75 39
 Width: 630
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: 0 23G<94.2 183.3 503.818 629.9> 714 22G<94.2 183.3 498.154 629.9>
-VStem: 94 89<0 259.6 378.4 735.9>
+Flags: W
+HStem: 0 21G<94 183 489.247 630> 716 20G<94 183 442.637 570>
+VStem: 94 89<0 365 378 736>
 LayerCount: 2
 Fore
 SplineSet

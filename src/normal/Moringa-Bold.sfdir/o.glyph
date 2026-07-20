@@ -3,9 +3,9 @@ Encoding: 111 111 7
 Width: 654
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
-HStem: -9 115<254.789 379.532> 429 117<254.789 379.532>
-VStem: 47 163<157.475 376.913> 426 162<157.475 376.913>
+Flags: W
+HStem: -9 115<263.047 391.274> 429 117<263.047 391.274>
+VStem: 47 163<163.83 370.511> 446 162<165.347 368.983>
 AnchorPoint: "top_accent" 327 546 basechar 0
 LayerCount: 2
 Fore
