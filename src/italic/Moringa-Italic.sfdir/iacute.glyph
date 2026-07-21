@@ -1,10 +1,10 @@
 StartChar: iacute
 Encoding: 237 237 114
-Width: 262
+Width: 288
 VWidth: 1126
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 96 769 N 1 0 0 1 48 38 2
+Refer: 96 769 N 1 0 0 1 46 38 2
 Refer: 98 305 N 1 0 0 1 0 0 3
 EndChar

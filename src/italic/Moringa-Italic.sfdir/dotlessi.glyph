@@ -1,19 +1,21 @@
 StartChar: dotlessi
 Encoding: 258 305 98
-Width: 262
+Width: 288
 VWidth: 1114
 Flags: HW
-HStem: 0 21G<87 177> 516 20G<87 177>
-VStem: 87 90<0 536>
-AnchorPoint: "top_accent" 132 536 basechar 0
+HStem: 0 21G<85 175> 516 20G<85 175>
+VStem: 85 90<0 536>
+AnchorPoint: "top_accent" 130 536 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-87 536 m 1
- 132 536 l 1
- 177 536 l 1
- 177 0 l 1
- 87 0 l 1
- 87 536 l 1
+85 536 m 1
+ 175 536 l 1
+ 175 160 l 2
+ 175 104 208 74 264 74 c 1
+ 259 -2 l 1
+ 243 -2 l 2
+ 154 -2 85 67 85 156 c 2
+ 85 536 l 1
 EndSplineSet
 EndChar
