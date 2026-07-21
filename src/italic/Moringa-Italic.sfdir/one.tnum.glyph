@@ -2,7 +2,7 @@ StartChar: one.tnum
 Encoding: 261 -1 133
 Width: 579
 VWidth: 1114
-Flags: HW
+Flags: W
 HStem: 0 66<69 249 336 515> 698 20G<208.31 336>
 VStem: 249 87<66 637>
 LayerCount: 2
