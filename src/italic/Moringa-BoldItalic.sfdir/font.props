@@ -10,8 +10,8 @@ Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 51
-Ascent: 794
-Descent: 230
+Ascent: 804
+Descent: 220
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759742034
-ModificationTime: 1784645042
+ModificationTime: 1784814271
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -108,7 +108,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 154
-WinInfo: 0 19 8
+WinInfo: 57 19 8
 BeginPrivate: 0
 EndPrivate
 Grid
