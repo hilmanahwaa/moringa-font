@@ -1,6 +1,6 @@
 StartChar: k
 Encoding: 107 107 4
-Width: 625
+Width: 612
 VWidth: 1114
 GlyphClass: 2
 Flags: HW
@@ -11,13 +11,13 @@ Fore
 SplineSet
 85 781 m 1
  247 781 l 1
- 247 318 l 1
+ 247 298 l 1
  404 536 l 1
- 577 536 l 1
- 397 294 l 5
- 619 0 l 1
- 438 0 l 1
- 247 278 l 1
+ 570 536 l 1
+ 391 282 l 5
+ 606 0 l 1
+ 433 0 l 1
+ 247 258 l 1
  247 0 l 1
  85 0 l 1
  85 781 l 1
