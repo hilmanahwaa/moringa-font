@@ -2,28 +2,28 @@ StartChar: four.tnum
 Encoding: 264 -1 136
 Width: 579
 VWidth: 1114
-Flags: W
+Flags: HW
 HStem: 0 21G<367 454> 185 66<113 367 454 542> 698 20G<331.338 454>
 VStem: 367 87<0 185 251 617>
 LayerCount: 2
 Fore
 SplineSet
-367 617 m 1
- 113 251 l 1
- 367 251 l 1
- 367 617 l 1
-345 718 m 1
- 454 718 l 1
- 454 251 l 1
- 542 251 l 1
- 542 185 l 1
- 454 185 l 1
- 454 0 l 1
- 367 0 l 1
- 367 185 l 1
- 26 185 l 1
- 26 251 l 1
- 345 718 l 1
+381 627 m 5
+ 127 251 l 1
+ 381 251 l 1
+ 381 627 l 5
+359 718 m 1
+ 468 718 l 1
+ 468 251 l 1
+ 556 251 l 1
+ 556 185 l 1
+ 468 185 l 1
+ 468 0 l 1
+ 381 0 l 1
+ 381 185 l 1
+ 40 185 l 1
+ 40 251 l 1
+ 359 718 l 1
 EndSplineSet
 Substitution2: "CharVar02-1" four.tnum.cv02
 EndChar

@@ -3,16 +3,16 @@ Encoding: 52 52 58
 Width: 633
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<394 481> 185 66<140 394 481 569> 698 20G<358.338 481>
 VStem: 394 87<0 185 251 617>
 LayerCount: 2
 Fore
 SplineSet
-394 617 m 1
+394 627 m 5
  140 251 l 1
  394 251 l 1
- 394 617 l 1
+ 394 627 l 5
 372 718 m 1
  481 718 l 1
  481 251 l 1

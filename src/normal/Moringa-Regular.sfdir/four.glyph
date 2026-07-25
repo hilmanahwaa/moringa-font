@@ -9,10 +9,10 @@ VStem: 394 87<0 185 251 617>
 LayerCount: 2
 Fore
 SplineSet
-394 617 m 1
+394 627 m 5
  140 251 l 1
  394 251 l 1
- 394 617 l 1
+ 394 627 l 5
 372 718 m 1
  481 718 l 1
  481 251 l 1
@@ -26,7 +26,6 @@ SplineSet
  53 251 l 1
  372 718 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "CharVar02-1" four.cv02
 Substitution2: "TabularFigures-1" four.tnum
 EndChar
