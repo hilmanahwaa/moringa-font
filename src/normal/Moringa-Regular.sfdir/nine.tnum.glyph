@@ -2,9 +2,10 @@ StartChar: nine.tnum
 Encoding: 65545 -1 141
 Width: 579
 VWidth: 1114
-Flags: HW
+Flags: W
 HStem: 655 69<227.925 366.278> 258 66<214.413 359.692> -4 66<165.2 279.004>
 VStem: 428 87<313.638 585.947> 73 87<387.926 579.208>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet

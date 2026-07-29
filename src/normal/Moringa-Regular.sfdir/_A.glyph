@@ -3,7 +3,7 @@ Encoding: 65 65 31
 Width: 664
 VWidth: 1114
 GlyphClass: 2
-Flags: HW
+Flags: W
 HStem: 0 21G<10 111.581 532.419 634> 234 66<204 440> 716 20G<253.207 389.821>
 AnchorPoint: "top_accent" 331 736 basechar 0
 LayerCount: 2
@@ -20,7 +20,7 @@ SplineSet
  481 229 l 1
  183 229 l 1
 205 300 m 1
- 459 300 l 5
+ 459 300 l 1
  331 659 l 1
  205 300 l 1
 EndSplineSet

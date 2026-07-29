@@ -6,6 +6,7 @@ GlyphClass: 2
 Flags: W
 HStem: -4 69<170.779 344.964> 349 70<190 330.706> 653 71<188.917 338.103>
 VStem: 388 87<464.073 602.231> 409 88<126.546 283.151>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet

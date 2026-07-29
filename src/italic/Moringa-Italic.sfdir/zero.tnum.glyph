@@ -1,5 +1,5 @@
 StartChar: zero.tnum
-Encoding: 260 -1 132
+Encoding: 65536 -1 132
 Width: 579
 VWidth: 1114
 Flags: W

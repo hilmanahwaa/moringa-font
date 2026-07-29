@@ -1,17 +1,17 @@
 StartChar: r
 Encoding: 114 114 12
-Width: 450
+Width: 435
 VWidth: 1114
 GlyphClass: 2
-Flags: W
+Flags: HW
 HStem: 0 21G<85 246> 424 117<297.835 449.889>
 VStem: 85 161<0 363.251>
 LayerCount: 2
 Fore
 SplineSet
 371 541 m 2
- 430 541 l 5
- 430 424 l 5
+ 415 541 l 5
+ 415 424 l 5
  361 424 l 2
  301 424 246 378 246 244 c 2
  246 0 l 1

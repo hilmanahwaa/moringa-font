@@ -2,9 +2,10 @@ StartChar: six.tnum
 Encoding: 65542 -1 138
 Width: 579
 VWidth: 1114
-Flags: HW
+Flags: W
 HStem: -4 69<221.722 360.075> 396 66<228.308 373.587> 658 66<308.996 422.8>
 VStem: 73 87<134.053 406.362> 428 87<140.792 332.074>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet

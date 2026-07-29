@@ -5,6 +5,7 @@ VWidth: 1114
 Flags: W
 HStem: -4 69<177.779 351.964> 349 70<197 337.706> 653 71<195.917 345.103>
 VStem: 395 87<464.073 602.231> 416 88<126.546 283.151>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
