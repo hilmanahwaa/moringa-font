@@ -24,7 +24,7 @@ Moringa adalah nama lain dari tanaman sayur kelor. Kelor adalah salah satu ciri 
 
 [Klik di sini](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15600670049/artifacts/download?file_type=archive) untuk mengunduh dari Gitlab. Tersedia juga format UFO untuk pengerjaan di aplikasi lain.
 
-Dibuat secara otomatis oleh GitLab CI, pada tanggal 21 Juli 2026
+Dibuat secara otomatis oleh GitLab CI, pada tanggal 29 Juli 2026
 
 ## Spesimen
 

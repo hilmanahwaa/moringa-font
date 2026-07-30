@@ -22,7 +22,7 @@ Moringa is one of the distinguishing features of MAN Lumajang and also a flagshi
 
 [Click here](https://gitlab.com/kak_hilhilll/moringa-font/-/jobs/15600670049/artifacts/download?file_type=archive) to download from Gitlab. UFO format is also available for working with other apps.
 
-Generated automatically by Gitlab CI, on 24 July 2026
+Generated automatically by Gitlab CI, on 29 July 2026
 
 ## Specimen
 
