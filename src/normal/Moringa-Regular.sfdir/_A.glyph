@@ -4,7 +4,7 @@ Width: 664
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<10 111.581 532.419 634> 234 66<204 440> 716 20G<253.207 389.821>
+HStem: 0 21G<10 111.812 552.188 654> 229 71<205 459> 716 20G<262.935 400.092>
 AnchorPoint: "top_accent" 331 736 basechar 0
 LayerCount: 2
 Fore
@@ -24,4 +24,5 @@ SplineSet
  331 659 l 1
  205 300 l 1
 EndSplineSet
+Validated: 1
 EndChar

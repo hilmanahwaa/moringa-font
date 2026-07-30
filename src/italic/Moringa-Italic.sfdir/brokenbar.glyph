@@ -1,0 +1,22 @@
+StartChar: brokenbar
+Encoding: 166 166 180
+Width: 209
+VWidth: 1114
+Flags: W
+VStem: 73 63<-250 210 344 774>
+LayerCount: 2
+Fore
+SplineSet
+136 210 m 1
+ 136 -250 l 1
+ 73 -250 l 1
+ 73 210 l 1
+ 136 210 l 1
+136 344 m 1
+ 73 344 l 1
+ 73 774 l 1
+ 136 774 l 1
+ 136 344 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -8,10 +8,10 @@ HStem: 229 110<60 411>
 LayerCount: 2
 Fore
 SplineSet
-411 339 m 1
- 411 229 l 1
- 60 229 l 1
- 60 339 l 1
- 411 339 l 1
+411 339 m 5
+ 411 229 l 5
+ 60 229 l 5
+ 60 339 l 5
+ 411 339 l 5
 EndSplineSet
 EndChar

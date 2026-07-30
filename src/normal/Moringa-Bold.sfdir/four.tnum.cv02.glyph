@@ -1,8 +1,8 @@
 StartChar: four.tnum.cv02
-Encoding: 65548 -1 167
+Encoding: 65548 -1 223
 Width: 635
 VWidth: 1114
-Flags: HW
+Flags: W
 HStem: 0 21G<367 520> 170 109<197 367 520 596> 698 20G<331.177 520>
 VStem: 367 153<0 170 280 544>
 LayerCount: 2

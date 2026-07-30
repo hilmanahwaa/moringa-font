@@ -2,11 +2,9 @@ StartChar: acircumflex
 Encoding: 226 226 127
 Width: 559
 VWidth: 1126
-Flags: HW
-HStem: -4 69<153.112 316.616> 256 68<263.281 398.147> 469 72<182.745 350.84> 646 151
-VStem: 45.1474 86<86.2981 189.605> 144.147 282 401.147 90<142.541 256 321.789 412.142>
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 121 770 N 1 0 0 1 144.147 43 2
+Refer: 121 770 N 1 0 0 1 134 -195 2
 Refer: 1 97 N 1 0 0 1 0 0 3
 EndChar

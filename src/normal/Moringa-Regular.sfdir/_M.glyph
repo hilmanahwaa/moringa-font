@@ -4,24 +4,25 @@ Width: 912
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<94 183 700 789> 716 20G<94 226.642 657.289 789>
-VStem: 94 89<0 581> 700 89<0 581>
+HStem: 0 21G<94 183 730 819> 716 20G<94 227.389 686.54 819>
+VStem: 94 89<0 601> 730 89<0 601>
 LayerCount: 2
 Fore
 SplineSet
 94 736 m 1
  219 736 l 1
- 456 171 l 5
+ 456 171 l 1
  695 736 l 1
  819 736 l 1
  819 0 l 1
  730 0 l 1
  730 601 l 1
- 489 36 l 5
- 424 36 l 5
+ 489 36 l 1
+ 424 36 l 1
  183 601 l 1
  183 0 l 1
  94 0 l 1
  94 736 l 1
 EndSplineSet
+Validated: 1
 EndChar

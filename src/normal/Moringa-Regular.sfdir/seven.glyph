@@ -4,7 +4,7 @@ Width: 549
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<103 205.617> 653 65<67 427>
+HStem: 0 21G<103 205.617> 648 70<67 422>
 LayerCount: 2
 Fore
 SplineSet
@@ -13,9 +13,10 @@ SplineSet
  510 653 l 1
  196 0 l 1
  103 0 l 1
- 422 648 l 5
+ 422 648 l 1
  67 648 l 1
  67 718 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "TabularFigures-1" seven.tnum
 EndChar

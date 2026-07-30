@@ -4,8 +4,9 @@ Width: 531
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: -4 70<205.24 369.785> 469 72<207.448 368.171>
-VStem: 36 90<155.916 378.419>
+HStem: -9 75<205.24 368.944> 469 77<207.448 365.513>
+VStem: 36 90<155.569 378.766>
+AnchorPoint: "top_accent" 278 546 basechar 0
 AnchorPoint: "bottom_accent" 280 -9 basechar 0
 LayerCount: 2
 Fore
@@ -22,4 +23,5 @@ SplineSet
  137 -9 36 88 36 267 c 0
  36 446 136 546 278 546 c 0
 EndSplineSet
+Validated: 1
 EndChar

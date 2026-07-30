@@ -3,7 +3,7 @@ Encoding: 65543 -1 139
 Width: 579
 VWidth: 1114
 Flags: W
-HStem: 0 21G<122 225.587> 653 65<43 447>
+HStem: 0 21G<122 225.587> 648 70<43 442>
 LayerCount: 2
 Fore
 SplineSet
@@ -12,8 +12,9 @@ SplineSet
  529 653 l 1
  216 0 l 1
  122 0 l 1
- 442 648 l 5
+ 442 648 l 1
  43 648 l 1
  43 718 l 1
 EndSplineSet
+Validated: 1
 EndChar

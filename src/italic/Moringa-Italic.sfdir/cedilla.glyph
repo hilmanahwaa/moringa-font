@@ -1,0 +1,21 @@
+StartChar: cedilla
+Encoding: 184 184 211
+Width: 218
+VWidth: 1013
+Flags: HW
+HStem: -455 59<3 99.9753>
+VStem: 114 80<-382.357 -309.897>
+LayerCount: 2
+Fore
+SplineSet
+3 -136 m 5
+ 41 -135 114 -139 114 -86 c 4
+ 114 -44 43 -27 43 -27 c 5
+ 53 31 l 5
+ 117 21 l 5
+ 115 4 l 5
+ 115 4 194 -15 194 -90 c 4
+ 194 -143 154 -195 0 -195 c 5
+ 3 -136 l 5
+EndSplineSet
+EndChar

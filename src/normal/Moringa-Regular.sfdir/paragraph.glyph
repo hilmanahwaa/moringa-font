@@ -1,0 +1,25 @@
+StartChar: paragraph
+Encoding: 182 182 202
+Width: 649
+VWidth: 1114
+Flags: W
+HStem: 0 21G<336 422 483 565> 659 77<422 483>
+VStem: 47 375<398.477 615.059> 336 86<0 276> 483 82<0 659>
+LayerCount: 2
+Fore
+SplineSet
+422 659 m 1xd8
+ 422 0 l 1
+ 336 0 l 1
+ 336 276 l 1xd8
+ 294 276 l 2
+ 115 276 47 383 47 507 c 0xe8
+ 47 631 115 736 294 736 c 2
+ 565 736 l 1
+ 565 0 l 1
+ 483 0 l 1
+ 483 659 l 1
+ 422 659 l 1xd8
+EndSplineSet
+Validated: 1
+EndChar

@@ -5,14 +5,14 @@ VWidth: 1114
 GlyphClass: 2
 Flags: W
 HStem: 0 21G<394 481> 185 66<140 394 481 569> 698 20G<358.338 481>
-VStem: 394 87<0 185 251 617>
+VStem: 394 87<0 185 251 627>
 LayerCount: 2
 Fore
 SplineSet
-394 627 m 5
+394 627 m 1
  140 251 l 1
  394 251 l 1
- 394 627 l 5
+ 394 627 l 1
 372 718 m 1
  481 718 l 1
  481 251 l 1
@@ -26,6 +26,7 @@ SplineSet
  53 251 l 1
  372 718 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "CharVar02-1" four.cv02
 Substitution2: "TabularFigures-1" four.tnum
 EndChar

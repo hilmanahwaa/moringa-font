@@ -2,11 +2,9 @@ StartChar: Eacute
 Encoding: 201 201 108
 Width: 662
 VWidth: 1126
-Flags: HW
-HStem: 0 76<183 607> 341 77<183 563> 659 77<183 607> 841 147
-VStem: 94 89<76 341 418 659> 289 214
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 96 769 N 1 0 0 1 286 238 2
+Refer: 96 769 N 1 0 0 1 286 0 2
 Refer: 29 69 N 1 0 0 1 0 0 3
 EndChar

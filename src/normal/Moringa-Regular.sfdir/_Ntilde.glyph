@@ -1,12 +1,9 @@
 StartChar: Ntilde
 Encoding: 209 209 144
 Width: 745
-Flags: HW
-HStem: 0 21G<94 183 538.875 652> 716 20G<94 218.122 563 652> 802 52<398.378 470.977> 872 53<278.297 347.684> 897 20G<497 533>
-VStem: 94 89<0 607> 213 320 563 89<147 736>
-CounterMasks: 1 07
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 142 771 N 1 0 0 1 213 198 2
+Refer: 142 771 N 1 0 0 1 213 -35 2
 Refer: 36 78 N 1 0 0 1 0 0 3
 EndChar

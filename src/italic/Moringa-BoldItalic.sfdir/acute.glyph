@@ -1,16 +1,18 @@
 StartChar: acute
 Encoding: 180 180 95
-Width: 257
-VWidth: 1013
+Width: 348
+VWidth: 1114
 GlyphClass: 2
-Flags: HW
+Flags: W
+HStem: 554 235
+VStem: 60 229
 LayerCount: 2
 Fore
 SplineSet
-47 537 m 1
- 153 717 l 1
- 211 717 l 1
- 139 537 l 1
- 47 537 l 1
+60 554 m 5
+ 209 554 l 5
+ 289 764 l 5
+ 238 789 l 5
+ 60 554 l 5
 EndSplineSet
 EndChar

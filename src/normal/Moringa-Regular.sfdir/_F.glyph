@@ -15,10 +15,11 @@ SplineSet
  183 659 l 1
  183 418 l 1
  563 418 l 1
- 563 341 l 5
- 183 341 l 5
+ 563 341 l 1
+ 183 341 l 1
  183 0 l 1
  94 0 l 1
  94 736 l 1
 EndSplineSet
+Validated: 1
 EndChar

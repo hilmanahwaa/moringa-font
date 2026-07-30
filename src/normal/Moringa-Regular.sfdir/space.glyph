@@ -3,6 +3,8 @@ Encoding: 32 32 9
 Width: 262
 VWidth: 1013
 GlyphClass: 2
-Flags: HW
+Flags: HMW
 LayerCount: 2
+Fore
+Validated: 1
 EndChar

@@ -4,9 +4,8 @@ Width: 588
 VWidth: 1114
 GlyphClass: 2
 Flags: W
-HStem: -9 74<189.744 378.357> 371 69<163 371.036> 649 69<181 488>
+HStem: -9 74<189.744 378.357> 371 69<163 371.036> 646 72<181 488>
 VStem: 447 87<131.16 304.509>
-CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -26,5 +25,6 @@ SplineSet
  73 371 l 1
  110 718 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "TabularFigures-1" five.tnum
 EndChar

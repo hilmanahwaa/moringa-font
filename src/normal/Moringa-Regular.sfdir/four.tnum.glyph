@@ -3,15 +3,15 @@ Encoding: 65540 -1 136
 Width: 579
 VWidth: 1114
 Flags: W
-HStem: 0 21G<367 454> 185 66<113 367 454 542> 698 20G<331.338 454>
-VStem: 367 87<0 185 251 617>
+HStem: 0 21G<381 468> 185 66<127 381 468 556> 698 20G<345.338 468>
+VStem: 381 87<0 185 251 627>
 LayerCount: 2
 Fore
 SplineSet
-381 627 m 5
+381 627 m 1
  127 251 l 1
  381 251 l 1
- 381 627 l 5
+ 381 627 l 1
 359 718 m 1
  468 718 l 1
  468 251 l 1
@@ -25,5 +25,6 @@ SplineSet
  40 251 l 1
  359 718 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "CharVar02-1" four.tnum.cv02
 EndChar

@@ -6,15 +6,14 @@ GlyphClass: 2
 Flags: W
 HStem: -9 74<209.804 350.544> 396 76<215.752 371.127> 658 71<300.291 410>
 VStem: 50 87<146.242 382.503> 425 87<143.804 335.739>
-CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
-425 237 m 4
+425 237 m 0
  425 358 364 396 293 396 c 0
  216 396 137 331 137 231 c 0
  137 149 194 65 278 65 c 0
- 368 65 425 143 425 237 c 4
+ 368 65 425 143 425 237 c 0
 410 729 m 1
  418 658 l 1
  223 658 160 528 150 392 c 1
@@ -24,5 +23,6 @@ SplineSet
  160 -9 50 74 50 294 c 0
  50 484 120 729 410 729 c 1
 EndSplineSet
+Validated: 1
 Substitution2: "TabularFigures-1" six.tnum
 EndChar
