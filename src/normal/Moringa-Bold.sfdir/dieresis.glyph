@@ -1,10 +1,10 @@
 StartChar: dieresis
-Encoding: 168 168 211
+Encoding: 168 168 210
 Width: 304
 VWidth: 1251
-Flags: HW
-HStem: 838 94<22.3939 101.606 202.394 281.606>
-VStem: 15 94<845.394 924.606> 195 94<845.394 924.606>
+Flags: W
+HStem: 691 94<22.3939 101.606 202.394 281.606>
+VStem: 15 94<698.394 777.606> 195 94<698.394 777.606>
 LayerCount: 2
 Fore
 SplineSet

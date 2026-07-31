@@ -6,7 +6,7 @@ GlyphClass: 2
 Flags: W
 HStem: -4 107<263.794 408.576> 432 109<263.794 406.148>
 VStem: 47 163<162.095 372.246>
-AnchorPoint: "bottom_accent" 328 -4 basechar 0
+AnchorPoint: "bottom_accent" 328 -9 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18,7 +18,7 @@ SplineSet
  210 156 255 103 337 103 c 0
  394 103 424 131 447 179 c 1
  579 150 l 1
- 542 46 455 -9 328 -9 c 4
+ 542 46 455 -9 328 -9 c 0
  172 -9 47 76 47 267 c 0
  47 458 172 546 328 546 c 0
 EndSplineSet

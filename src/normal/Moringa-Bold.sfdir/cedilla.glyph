@@ -1,10 +1,10 @@
 StartChar: cedilla
-Encoding: 184 184 207
+Encoding: 184 184 206
 Width: 218
 VWidth: 1013
-Flags: HW
-HStem: -455 59<3 99.9753>
-VStem: 114 80<-382.357 -309.897>
+Flags: W
+HStem: -195 59<3 99.9753>
+VStem: 114 80<-122.357 -49.8967>
 LayerCount: 2
 Fore
 SplineSet

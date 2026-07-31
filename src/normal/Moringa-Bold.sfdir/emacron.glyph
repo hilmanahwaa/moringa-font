@@ -1,9 +1,9 @@
 StartChar: emacron
-Encoding: 275 275 190
+Encoding: 275 275 189
 Width: 618
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 186 772 N 1 0 0 1 148 -99 2
+Refer: 185 772 N 1 0 0 1 148 -99 2
 Refer: 17 101 N 1 0 0 1 0 0 3
 EndChar

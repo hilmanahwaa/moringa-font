@@ -1,9 +1,9 @@
 StartChar: Amacron
-Encoding: 256 256 187
+Encoding: 256 256 186
 Width: 718
 Flags: HM
 LayerCount: 2
 Fore
-Refer: 186 772 N 1 0 0 1 199 91 2
+Refer: 185 772 N 1 0 0 1 199 91 2
 Refer: 31 65 N 1 0 0 1 0 0 3
 EndChar
